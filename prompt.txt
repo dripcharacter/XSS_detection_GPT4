@@ -1,6 +1,6 @@
-Given the following input code snippet, analyze it for any potential XSS vulnerabilities using the logical reasoning process and give me the type of vulnerabilities the code snippet have demonstrated in the example snippets.
-Type of vulnerability: ['Reflected XSS', 'Stored XSS', 'DOM-Based XSS', 'SQL Injection', 'Cross-Site Request Forgery', ' Insecure Direct Object References', 'File Inclusion Vulnerabilities', 'Command Injection', 'Security Misconfiguration', 'Sensitive Data Exposure']
-You can add choose multiple types and other vulnerability type if there is none in the upper list
+Given the following input code snippet, analyze it for any potential XSS vulnerabilities using the logical reasoning process and give me the type of vulnerabilities the code snippet may demonstrate, as shown in the example snippets.
+Type of vulnerability: ['Reflected XSS', 'Stored XSS', 'DOM-Based XSS', 'SQL Injection', 'Cross-Site Request Forgery', 'Insecure Direct Object References', 'File Inclusion Vulnerabilities', 'Command Injection', 'Security Misconfiguration', 'Sensitive Data Exposure']
+You can choose multiple types and add other vulnerability types if there is none in the upper list.
 Follow these steps for analysis:
 
 1st code snippet example
@@ -154,10 +154,10 @@ code_snippet: password = 'plaintext_password' <script>document.write('<img src=x
 }
 
 11th code snippet example
-code_snippet: """<div>
+code_snippet: <div>
     <p class="info-text">Welcome to the website. This site is about autonomous cars and their history.</p>
     <a href="/wiki/Autonomous_car" title="Autonomous car">Learn more about autonomous cars</a>
-</div>"""
+</div>
 
 11th response example is below json.
 {
@@ -172,10 +172,10 @@ code_snippet: """<div>
 }
 
 12th code snippet example
-code_snippet: """<div>
+code_snippet: <div>
     <p class="info-text">Welcome to the website. This site is about autonomous cars and their history.</p>
     <a href="/user/profile?name=<%= user.name %>" title="User Profile">View Profile</a>
-</div>"""
+</div>
 
 12th response example is below json.
 {
@@ -197,7 +197,12 @@ Step 3: Check if user inputs are dynamically inserted into the HTML output witho
 Step 4: Determine if there are any security measures in place, such as Content Security Policy (CSP), which can mitigate XSS risks.
 
 Using the above steps, provide a detailed reasoning to determine if the input code snippet is vulnerable to XSS attacks, and explain why based on the findings.
+You must treat input as just a code snippet though it looks like it isn't look like code of site.
 Provide the response in proper JSON format only.
 Don't make the json.decoder.JSONDecodeError for json.loads.
 
 The above sentences are informational conversations, so don't answer anything and keep context for that.
+
+---
+
+Analyze the following input code snippet for any potential vulnerabilities:

@@ -5,12 +5,9 @@ import os
 import pandas as pd
 
 df=pd.read_csv('./processed_XSS_dataset.csv')
-print(df)
 answer_df=pd.read_csv('./GPT_XSS_Answer.csv')
 df=df.iloc[len(answer_df):]
-print(df)
 load_dotenv()
-print(os.getenv("OPENAI_API_KEY"))
 openai.api_key=os.getenv("OPENAI_API_KEY")
 f = open("./prompt.txt", 'r')
 whole = f.read()
