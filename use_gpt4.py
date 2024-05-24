@@ -4,19 +4,16 @@ import json
 import os
 import pandas as pd
 
-df=pd.read_csv('./gpt4_turbo_processed_XSS_dataset.csv')
-answer_df=pd.read_csv('./gpt4_turbo_GPT_XSS_Answer.csv')
-df=df.iloc[len(answer_df):]
-load_dotenv()
-openai.api_key=os.getenv("OPENAI_API_KEY")
-f = open("./prompt.txt", 'r')
-whole = f.read()
+def use_gpt4(data, model_name):
+    load_dotenv()
+    openai.api_key=os.getenv("OPENAI_API_KEY")
+    f = open("./prompt.txt", 'r')
+    whole = f.read()
 
-client = openai.OpenAI()
-for idx, data in enumerate(df['Sentence'].values):
-    print(f"=============================={idx}==================================")
+    client = openai.OpenAI()
+
     response=client.chat.completions.create(
-        model="gpt-4-turbo",
+        model=model_name,
         messages=[
             {
                 "role": "system",
@@ -44,8 +41,17 @@ for idx, data in enumerate(df['Sentence'].values):
     )
     result=response.choices[0].message.content
     result=result.strip("`""json""\n")
-    print(result)
     result=json.loads(result)
+
+    return result
+
+df=pd.read_csv('./gpt4_turbo_processed_XSS_dataset.csv')
+answer_df=pd.read_csv('./gpt4_turbo_GPT_XSS_Answer.csv')
+df=df.iloc[len(answer_df):]
+
+for idx, data in enumerate(df['Sentence'].values):
+    print(f"=============================={idx}==================================")
+    result=use_gpt4(data)
     print(f"CoT_Process: {result['CoT_Process']}")
     print(f"Vuln: {result['Expected_Vulnerabilities']}")
     print(f"Detection: {result['XSS_Detection']}")
