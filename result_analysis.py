@@ -1,7 +1,7 @@
 import pandas as pd
 
-result_df=pd.read_csv("./GPT_XSS_Answer.csv")
-answer_df=pd.read_csv("./processed_XSS_dataset.csv")
+result_df=pd.read_csv("./gpt4_turbo_GPT_XSS_Answer.csv")
+answer_df=pd.read_csv("./gpt4_turbo_processed_XSS_dataset.csv")
 
 tp=0
 fp=0

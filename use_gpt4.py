@@ -4,8 +4,8 @@ import json
 import os
 import pandas as pd
 
-df=pd.read_csv('./processed_XSS_dataset.csv')
-answer_df=pd.read_csv('./GPT_XSS_Answer.csv')
+df=pd.read_csv('./gpt4_turbo_processed_XSS_dataset.csv')
+answer_df=pd.read_csv('./gpt4_turbo_GPT_XSS_Answer.csv')
 df=df.iloc[len(answer_df):]
 load_dotenv()
 openai.api_key=os.getenv("OPENAI_API_KEY")
@@ -16,7 +16,7 @@ client = openai.OpenAI()
 for idx, data in enumerate(df['Sentence'].values):
     print(f"=============================={idx}==================================")
     response=client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-4-turbo",
         messages=[
             {
                 "role": "system",
@@ -54,7 +54,7 @@ for idx, data in enumerate(df['Sentence'].values):
         'GPT_CoT':[result['CoT_Process']],
         'GPT_Vuln':[result['Expected_Vulnerabilities']],
         'GPT_Detection':[result['XSS_Detection']]
-    }).to_csv("./GPT_XSS_Answer.csv", mode='a', header=False, index=False)
+    }).to_csv("./gpt4_turbo_GPT_XSS_Answer.csv", mode='a', header=False, index=False)
 
     
 # {
